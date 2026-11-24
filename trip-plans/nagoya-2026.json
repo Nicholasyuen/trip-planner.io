@@ -1,0 +1,2870 @@
+{
+  "version": 1,
+  "meta": {
+    "id": "nagoya-central-japan-2026-12",
+    "brand": "同行手帖",
+    "brandSeal": "龍",
+    "brandSub": "CENTRAL JAPAN · 2026",
+    "title": "昇龍道同行手帖",
+    "subtitle": "香港 → 名古屋夜景 → 白川鄉 → 高山 → 常滑／機場",
+    "travelersLabel": "三位旅伴",
+    "dateRangeLabel": "10 — 14 DEC 2026",
+    "headingDateLabel": "日本中部・12 月 10–14 日",
+    "heroLabel": "五日・四夜・三位旅伴",
+    "heroTitle": "首晚名站拉麵與動漫店，",
+    "heroTitleEm": "返程輕訪常滑妹。",
+    "heroBody": "香港出發先入名古屋；入住後名站晚餐與太閤通口書店，白川鄉與高山之後，返程日再看常滑妹與手信。",
+    "heroPhotoId": "shirakawa",
+    "routeSummary": [
+      "香港",
+      "名古屋",
+      "白川鄉",
+      "高山",
+      "常滑"
+    ],
+    "footerBrand": "昇龍道・同行手帖",
+    "footerNote": "實際交通、營業時間與天候以營運單位最新公告為準。",
+    "footerRoute": "NAGOYA — SHIRAKAWA-GO — TAKAYAMA — TOKONAME",
+    "viewTitles": {
+      "overview": "旅程總覽",
+      "itinerary": "五日行程",
+      "map": "沿線地圖",
+      "weather": "天氣觀測",
+      "hotels": "四晚住宿",
+      "costs": "已知費用"
+    }
+  },
+  "photos": [
+    {
+      "id": "airport",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Chubu_Centrair_International_Airport_Japan09n.jpg/1280px-Chubu_Centrair_International_Airport_Japan09n.jpg",
+      "alt": "中部國際機場航廈",
+      "credit": "663highland · CC BY 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chubu_Centrair_International_Airport_Japan09n.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "hongKong",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hong_Kong_International_Airport_Terminal_2.jpg/1280px-Hong_Kong_International_Airport_Terminal_2.jpg",
+      "alt": "香港國際機場二號客運大樓",
+      "credit": "SH6188 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_International_Airport_Terminal_2.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "ceramicHall",
+      "src": "https://www.tokoname-kankou.net/upload/foreignspots/large/221152043694b9088d524d.jpg",
+      "alt": "常滑市陶磁器會館・觀光諮詢處",
+      "credit": "とこなめ観光ナビ（常滑觀光協會）",
+      "sourceUrl": "https://www.tokoname-kankou.net/tw/spot/detail/5/",
+      "kind": "place"
+    },
+    {
+      "id": "dokan",
+      "src": "https://www.tokoname-kankou.net/upload/foreignspots/large/56738504368dc693ad4a2d.jpg",
+      "alt": "土管坂陶管擋土牆坡道",
+      "credit": "とこなめ観光ナビ（常滑觀光協會）",
+      "sourceUrl": "https://www.tokoname-kankou.net/tw/course/detail/11/",
+      "kind": "place"
+    },
+    {
+      "id": "noborigama",
+      "src": "https://www.tokoname-kankou.net/upload/foreignspots/large/85414383968dc6fec4ae72.jpg",
+      "alt": "登窯廣場・展示工房館周邊",
+      "credit": "とこなめ観光ナビ（常滑觀光協會）",
+      "sourceUrl": "https://www.tokoname-kankou.net/spot/detail/8/",
+      "kind": "place"
+    },
+    {
+      "id": "tokonyan",
+      "src": "https://www.tokoname-kankou.net/upload/foreignspots/large/106551992168db1a6a0ec5e.jpg",
+      "alt": "守護貓常滑妹（とこにゃん）",
+      "credit": "とこなめ観光ナビ（常滑觀光協會）",
+      "sourceUrl": "https://www.tokoname-kankou.net/tw/course/detail/11/",
+      "kind": "place"
+    },
+    {
+      "id": "shirakawa",
+      "src": "https://img.letsgojp.com/2020/06/2020062502.jpg",
+      "alt": "白川鄉合掌村雪景",
+      "credit": "樂吃購！日本・FIND/47",
+      "sourceUrl": "https://chubu.letsgojp.com/archives/323576/",
+      "kind": "place"
+    },
+    {
+      "id": "villageStreet",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gassho-zukuri_1.jpg?width=1280",
+      "alt": "白川鄉荻町合掌造街景",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gassho-zukuri_1.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "lookout",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Overview_of_Ogimachi,_Shirakawa,_from_the_Ogimachi_Castle_observation_point.jpg?width=1280",
+      "alt": "荻町城跡展望台俯瞰白川鄉",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overview_of_Ogimachi,_Shirakawa,_from_the_Ogimachi_Castle_observation_point.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "ropeway",
+      "src": "https://static.gltjp.com/glt/data/article/22000/21213/20251121_025407_384c4e58_w1920.webp",
+      "alt": "新穗高纜車與北阿爾卑斯山景",
+      "credit": "好運日本行 GOOD LUCK TRIP",
+      "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/21213/",
+      "kind": "place"
+    },
+    {
+      "id": "atsuta",
+      "src": "https://static.gltjp.com/glt/data/article/21000/20401/20241119_023936_de5ef996_w1920.webp",
+      "alt": "熱田神宮境內",
+      "credit": "好運日本行 GOOD LUCK TRIP",
+      "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/20401/",
+      "kind": "place"
+    },
+    {
+      "id": "oasis21",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Oasis_21_-_Spaceship_Aqua_-_02.JPG?width=1280",
+      "alt": "榮區 Oasis 21「水の宇宙船」",
+      "credit": "663highland · CC BY 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oasis_21_-_Spaceship_Aqua_-_02.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "aeonTokoname",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aeonmall-Tokoname-rinnkuustation.JPG?width=1280",
+      "alt": "永旺夢樂城常滑外觀（臨空常滑站廣場・AEON 招牌）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeonmall-Tokoname-rinnkuustation.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "centrairGift",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chochin-yokotyo.JPG?width=1280",
+      "alt": "中部國際機場提燈橫丁・手信／輕食區",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chochin-yokotyo.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "miraiTower",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_illumination_of_Nagoya_TV_Tower.jpg?width=1280",
+      "alt": "中部電力 MIRAI TOWER（名古屋電視塔）藍光夜景",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_illumination_of_Nagoya_TV_Tower.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "hisayaPark",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hisaya-%C3%94d%C3%B4ri_at_night.jpg?width=1280",
+      "alt": "久屋大通公園／RAYARD 夜景",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hisaya-%C3%94d%C3%B4ri_at_night.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "osu",
+      "src": "https://static.gltjp.com/glt/data/article/21000/20465/20231009_130907_ab11204e_w1920.webp",
+      "alt": "大須商店街拱廊街景",
+      "credit": "好運日本行 GOOD LUCK TRIP",
+      "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/20465/",
+      "kind": "place"
+    },
+    {
+      "id": "nagoyaGuide",
+      "src": "https://static.gltjp.com/glt/data/article/21000/20175/20220719_121440_cd01d43b_w1920.webp",
+      "alt": "名古屋觀光代表影像",
+      "credit": "好運日本行 GOOD LUCK TRIP",
+      "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/20175/",
+      "kind": "region"
+    },
+    {
+      "id": "nagoyaStation",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Meitesu_Nagoya_station_,_%E5%90%8D%E9%89%84_%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85_-_panoramio.jpg?width=1280",
+      "alt": "名鐵名古屋站月台",
+      "credit": "panoramio · Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meitesu_Nagoya_station_,_%E5%90%8D%E9%89%84_%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85_-_panoramio.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "uniqloGateTower",
+      "src": "/images/uniqlo-gate-tower.jpg",
+      "alt": "JR Gate Tower／名站夜景（UNIQLO 位於 11F）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JR_Gate_Tower_and_JR_Central_Towers_at_night.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "animateNagoya",
+      "src": "/images/animate-nagoya.jpg",
+      "alt": "Animate 名古屋店外觀（椿太閤ビル）",
+      "credit": "Animate 官方店舖頁",
+      "sourceUrl": "https://www.animate.co.jp/shop/nagoya/",
+      "kind": "place"
+    },
+    {
+      "id": "melonbooksNagoya",
+      "src": "/images/melonbooks-nagoya.jpg",
+      "alt": "Melon Books 名古屋店門面（第2太閤ビル 1F）",
+      "credit": "店面影像・社群分享",
+      "sourceUrl": "https://maps.app.goo.gl/DFNb7nEmMqLgB6cP7",
+      "kind": "place"
+    },
+    {
+      "id": "osuAkamon",
+      "src": "/images/osu-akamon.jpg",
+      "alt": "大須赤門通街景（AKAMON ST.）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goodwill_honten.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "osuShintenchi",
+      "src": "/images/cat.jpg",
+      "alt": "大須新天地通招財貓打卡點",
+      "credit": "行程實地相片",
+      "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/20465/",
+      "kind": "place"
+    },
+    {
+      "id": "tokonameCat",
+      "src": "/images/tokoname-cat.jpg",
+      "alt": "守護貓常滑妹（とこにゃん）",
+      "credit": "とこなめ観光ナビ（常滑觀光協會）",
+      "sourceUrl": "https://www.tokoname-kankou.net/tw/course/detail/11/",
+      "kind": "place"
+    },
+    {
+      "id": "mandarakeNagoya",
+      "src": "/images/mandarake-nagoya.jpg",
+      "alt": "まんだらけ名古屋店外觀",
+      "credit": "Mandarake 官方",
+      "sourceUrl": "https://www.mandarake.co.jp/dir/ngy/",
+      "kind": "place"
+    },
+    {
+      "id": "nagoyaParco",
+      "src": "/images/nagoya-parco.jpg",
+      "alt": "名古屋 PARCO 外觀",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAGOYA-PARCOMINAMIKAN.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "meitetsuBusCenter",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Meitetsu_Bus_Center_bus_entrance_110222.jpg?width=1280",
+      "alt": "名鐵巴士中心乘車入口",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meitetsu_Bus_Center_bus_entrance_110222.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "tokonameStation",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Meitetsu_Tokoname_Station_01.JPG?width=1280",
+      "alt": "名鐵常滑站",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meitetsu_Tokoname_Station_01.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "takayamaBus",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Takayama_Station.jpg?width=1280",
+      "alt": "高山站・濃飛巴士中心周邊",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takayama_Station.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "busTerminal",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogimachi_Village-01.jpg?width=1280",
+      "alt": "白川鄉荻町聚落入口周邊",
+      "credit": "Bernard Gagnon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ogimachi_Village-01.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "kanko",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nagoya_Kanko_Hotel_20150606-001.jpg/1280px-Nagoya_Kanko_Hotel_20150606-001.jpg",
+      "alt": "名古屋觀光酒店外觀",
+      "credit": "J o · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagoya_Kanko_Hotel_20150606-001.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "keihan",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hotel_Keihan_Nagoya_20200103-02.jpg/1280px-Hotel_Keihan_Nagoya_20200103-02.jpg",
+      "alt": "京阪名古屋酒店外觀",
+      "credit": "円周率３パーセント · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Keihan_Nagoya_20200103-02.jpg",
+      "kind": "place"
+    },
+    {
+      "id": "takayamaHotel",
+      "src": "https://www.takayama-gh.com/en/img/top/fig_slide6.jpg",
+      "alt": "高山綠色酒店",
+      "credit": "高山綠色酒店官方網站",
+      "sourceUrl": "https://www.takayama-gh.com/en/",
+      "kind": "place"
+    },
+    {
+      "id": "wakachiya",
+      "src": "https://www.hidatakayama.or.jp/lsc/upfile/spot/0000/5946/5946_9_l.jpg",
+      "alt": "飛驒牛料理，わかちや官方圖片",
+      "credit": "飛驒高山官方旅遊指南",
+      "sourceUrl": "https://www.hidatakayama.or.jp/eat/detail_5946.html",
+      "kind": "place"
+    },
+    {
+      "id": "ramen",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/White_Soup_Ramen_in_Nagoya_City_2021-12-05.jpg/1280px-White_Soup_Ramen_in_Nagoya_City_2021-12-05.jpg",
+      "alt": "名古屋白湯拉麵代表菜式",
+      "credit": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Soup_Ramen_in_Nagoya_City_2021-12-05.jpg",
+      "kind": "representative"
+    },
+    {
+      "id": "yakitori",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cooking_yakitori.jpg",
+      "alt": "炭火烤製雞串代表圖片",
+      "credit": "竹麦魚 (Searobin) · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cooking_yakitori.jpg",
+      "kind": "representative"
+    },
+    {
+      "id": "hitsumabushi",
+      "src": "/images/representative-hitsumabushi.jpg",
+      "alt": "名古屋鰻魚飯代表菜式，非蓬萊軒店舖實景",
+      "credit": "代表菜式影像・非店舖實景",
+      "sourceUrl": "https://www.houraiken.com/access.html",
+      "kind": "representative"
+    },
+    {
+      "id": "katsugyu",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonkatsu_001.jpg?width=1280",
+      "alt": "炸牛排／炸豬排代表菜式（非勝牛店舖實景）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tonkatsu_001.jpg",
+      "kind": "representative"
+    },
+    {
+      "id": "glitchCoffee",
+      "src": "/images/glitch-coffee-nagoya.jpg",
+      "alt": "GLITCH COFFEE & ROASTERS Nagoya（9h 名駅前）店面",
+      "credit": "オニマガ・店面影像",
+      "sourceUrl": "https://shop.glitchcoffee.com/en/pages/store-nagoya",
+      "kind": "place"
+    },
+    {
+      "id": "daiNagoyaBuilding",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dainagoya-Building-2nd-Entrance.JPG?width=1280",
+      "alt": "大名古屋ビルヂング入口（Mallory 位於 B1）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dainagoya-Building-2nd-Entrance.JPG",
+      "kind": "place"
+    },
+    {
+      "id": "hidaBeef",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakiniku_002.jpg?width=1280",
+      "alt": "燒肉／和牛料理代表影像（非店舖實景）",
+      "credit": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yakiniku_002.jpg",
+      "kind": "representative"
+    },
+    {
+      "id": "digitalArt",
+      "src": "/images/representative-digital-art.jpg",
+      "alt": "沉浸式數碼藝術代表影像，非 ARTE 場館實景",
+      "credit": "代表影像・非場館實景",
+      "sourceUrl": "https://feverup.com/m/753163/en",
+      "kind": "representative"
+    },
+    {
+      "id": "takayamaTown",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Takayama_Old_Town_At_Night_(135528503).jpeg",
+      "alt": "高山古街區域夜景（非 Coffee Don 店面）",
+      "credit": "Harald Johnsen · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takayama_Old_Town_At_Night_(135528503).jpeg",
+      "kind": "region"
+    }
+  ],
+  "places": [
+    {
+      "id": "hongKongAirport",
+      "name": "香港國際空港 第2ターミナル",
+      "nameZh": "香港國際機場 T2",
+      "lat": 22.308,
+      "lng": 113.9185,
+      "address": "香港國際空港 第2ターミナル",
+      "description": "香港快運出發航廈。",
+      "photoId": "hongKong",
+      "category": "airport",
+      "tips": []
+    },
+    {
+      "id": "airport",
+      "name": "中部國際空港",
+      "nameZh": "中部國際機場（NGO）",
+      "lat": 34.8599396,
+      "lng": 136.8161753,
+      "address": "愛知県常滑市セントレア1-1",
+      "description": "中部國際機場；連接名鐵機場線。",
+      "tips": [
+        "入境後前往名鐵機場站",
+        "預留安檢與退稅時間"
+      ],
+      "photoId": "airport",
+      "category": "airport"
+    },
+    {
+      "id": "tokonameStation",
+      "name": "常滑駅",
+      "nameZh": "常滑站",
+      "lat": 34.890604,
+      "lng": 136.8354544,
+      "address": "愛知県常滑市鯉江本町1丁目",
+      "description": "陶器散步道官方推薦路線起點；步行約 6 分鐘可達陶磁器會館。",
+      "tips": [
+        "官方路線：常滑站 → 陶磁器會館 → 常滑妹 → 土管坂 → 登窯廣場"
+      ],
+      "photoId": "tokonameStation",
+      "category": "station",
+      "sources": [
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        }
+      ]
+    },
+    {
+      "id": "ceramicHall",
+      "name": "常滑市陶磁器会館",
+      "nameZh": "常滑市陶磁器會館",
+      "lat": 34.8906122,
+      "lng": 136.8394692,
+      "address": "愛知県常滑市栄町3-8",
+      "description": "陶器散步道起點與觀光諮詢處；館內展示販售常滑燒與招財貓，備有英語手冊。",
+      "tips": [
+        "觀光諮詢／商品販售 9:00–16:30",
+        "TOKONAME 畫廊 9:00–16:00",
+        "全年無休（除年末年始）",
+        "電話諮詢受理至 17:00"
+      ],
+      "photoId": "ceramicHall",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        },
+        {
+          "label": "名古屋必去景點總覽",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20175/"
+        }
+      ]
+    },
+    {
+      "id": "tokonyan",
+      "name": "見守り猫 とこにゃん",
+      "nameZh": "常滑妹（とこにゃん）",
+      "lat": 34.88985,
+      "lng": 136.8392,
+      "address": "愛知県常滑市栄町2丁目",
+      "description": "高約 3.8 m、寬約 6.3 m 的巨大招財貓頭；招き猫通り壁上的「見守り猫」，陶器散步道必打卡。",
+      "tips": [
+        "常滑站步行約 8–10 分鐘",
+        "附近是生活道路，拍照時留意來車",
+        "可順路看招き猫通り上的小招財貓"
+      ],
+      "photoId": "tokonyan",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "とこにゃん 官方介紹",
+          "url": "https://www.tokoname-kankou.net/spot/detail/4/"
+        },
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        }
+      ]
+    },
+    {
+      "id": "dokan",
+      "name": "土管坂",
+      "nameZh": "土管坂",
+      "lat": 34.8876026,
+      "lng": 136.8398602,
+      "address": "愛知県常滑市栄町4",
+      "description": "以土管與甕片裝飾擋土牆的坡道，是常滑燒產業地景的代表打卡點。",
+      "tips": [
+        "路面不平，注意步行安全",
+        "時間夠再走；必去先看常滑妹"
+      ],
+      "photoId": "dokan",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        }
+      ]
+    },
+    {
+      "id": "noborigama",
+      "name": "登窯広場",
+      "nameZh": "登窯廣場",
+      "lat": 34.8865328,
+      "lng": 136.83978,
+      "address": "愛知県常滑市栄町6-145",
+      "description": "散步道休憩點，有巨型陶柱與馬賽克壁畫；附近有展示工房館與歷史登窯（陶榮窯）。",
+      "tips": [
+        "展示工房館 9:30–16:30，週三休",
+        "可彩繪招財貓，當日帶走"
+      ],
+      "photoId": "noborigama",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        }
+      ]
+    },
+    {
+      "id": "meitetsuBusCenter",
+      "name": "名鉄バスセンター",
+      "nameZh": "名鐵巴士中心（名古屋）",
+      "lat": 35.1708,
+      "lng": 136.8842,
+      "address": "愛知県名古屋市中村区名駅4丁目",
+      "description": "名古屋往白川鄉高速巴士乘車處；位於名鐵百貨／名鐵名古屋站周邊。",
+      "tips": [
+        "已訂 2026/12/11 09:50 出發班次（預約號 13911）"
+      ],
+      "photoId": "meitetsuBusCenter",
+      "category": "station",
+      "sources": [
+        {
+          "label": "岐阜・白川鄉交通攻略",
+          "url": "https://chubu.letsgojp.com/archives/323576/"
+        }
+      ]
+    },
+    {
+      "id": "keihan",
+      "name": "ホテル京阪 名古屋",
+      "nameZh": "京阪名古屋酒店",
+      "lat": 35.169172,
+      "lng": 136.90399,
+      "address": "愛知県名古屋市中区錦3-2-1",
+      "description": "首晚住宿，近榮與錦區。",
+      "photoId": "keihan",
+      "category": "hotel",
+      "tips": []
+    },
+    {
+      "id": "nagoyaStation",
+      "name": "名鉄名古屋駅",
+      "nameZh": "名鐵名古屋站",
+      "lat": 35.170694,
+      "lng": 136.881637,
+      "address": "愛知県名古屋市中村区名駅1丁目",
+      "description": "名鐵線主要轉乘點。",
+      "photoId": "nagoyaStation",
+      "category": "station",
+      "tips": []
+    },
+    {
+      "id": "busTerminal",
+      "name": "白川郷バスターミナル",
+      "nameZh": "白川鄉ＢＴ・集合乘車處",
+      "lat": 36.2620583,
+      "lng": 136.9068806,
+      "address": "岐阜県大野郡白川村荻町1086",
+      "description": "世界遺產北側國道 156 號荻町交差點旁的巴士總站；往高山／金澤等班次的集合與乘車處。站內有待合室、洗手間與觀光諮詢。",
+      "tips": [
+        "集合地點：白川鄉ＢＴ（非村內合掌屋巷內）",
+        "往高山請確認當日乘車口／班次指示",
+        "私家車不可在此乘降，請用せせらぎ公園停車場"
+      ],
+      "photoId": "busTerminal",
+      "category": "station",
+      "sources": [
+        {
+          "label": "白川村役場・巴士總站",
+          "url": "https://www.vill.shirakawa.lg.jp/1172.htm"
+        },
+        {
+          "label": "白川鄉官方交通",
+          "url": "https://shirakawa-go.gr.jp/en/access/"
+        }
+      ]
+    },
+    {
+      "id": "village",
+      "name": "白川郷（荻町）",
+      "nameZh": "白川鄉（荻町）",
+      "lat": 36.257828,
+      "lng": 136.906482,
+      "address": "岐阜県大野郡白川村荻町",
+      "description": "1995 年列入世界遺產的合掌造聚落；茅草屋頂形似合掌，至今仍有居民生活其間。",
+      "tips": [
+        "村內道路禁止私家車駛入",
+        "自駕請用 Seseragi Park 停車場",
+        "冬季雪景與展望台為經典拍照點"
+      ],
+      "photoId": "villageStreet",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "岐阜自由行：白川鄉・高山攻略",
+          "url": "https://chubu.letsgojp.com/archives/323576/"
+        },
+        {
+          "label": "白川鄉官方網站",
+          "url": "https://shirakawa-go.gr.jp/en/"
+        }
+      ]
+    },
+    {
+      "id": "lookout",
+      "name": "荻町城跡展望台",
+      "nameZh": "荻町城跡展望台",
+      "lat": 36.265806,
+      "lng": 136.899777,
+      "address": "岐阜県大野郡白川村荻町",
+      "description": "俯瞰合掌造聚落全景的必拍展望台；雪景季尤為熱門。",
+      "tips": [
+        "接駁車約每 20 分鐘一班，單程現金 ¥200",
+        "亦可步行上山"
+      ],
+      "photoId": "lookout",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "岐阜自由行：白川鄉・高山攻略",
+          "url": "https://chubu.letsgojp.com/archives/323576/"
+        },
+        {
+          "label": "白川鄉官方 FAQ",
+          "url": "https://shirakawa-go.gr.jp/en/faq/5"
+        }
+      ]
+    },
+    {
+      "id": "greenHotel",
+      "name": "高山グリーンホテル",
+      "nameZh": "高山綠色酒店",
+      "lat": 36.138494,
+      "lng": 137.245957,
+      "address": "岐阜県高山市西之一色町2-180",
+      "description": "飛驒高山溫泉酒店。",
+      "photoId": "takayamaHotel",
+      "category": "hotel",
+      "tips": []
+    },
+    {
+      "id": "takayamaBus",
+      "name": "高山濃飛バスセンター",
+      "nameZh": "高山濃飛巴士中心",
+      "lat": 36.140488,
+      "lng": 137.251304,
+      "address": "岐阜県高山市昭和町1-238",
+      "description": "前往新穗高與白川鄉的巴士樞紐。",
+      "photoId": "takayamaBus",
+      "category": "station",
+      "tips": []
+    },
+    {
+      "id": "ropeway",
+      "name": "新穂高ロープウェイ 新穂高温泉駅",
+      "nameZh": "新穗高纜車・新穗高溫泉站",
+      "lat": 36.2752446,
+      "lng": 137.5912855,
+      "address": "岐阜県高山市奥飛騨温泉郷新穂高",
+      "description": "日本唯一雙層纜車，兩段合計約 25 分鐘可達海拔 2,156 公尺西穗高口；山頂有 AlpScape 觀景台與頂之森。",
+      "tips": [
+        "冬季首班約 9:00、末班較早，出發前查官方",
+        "來回大人 ¥3,800／兒童 ¥1,900",
+        "山腳與山頂溫差約 6–10°C",
+        "建議預留 2–3 小時",
+        "強風可能停駛"
+      ],
+      "photoId": "ropeway",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "新穗高纜車完整指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/21213/"
+        },
+        {
+          "label": "岐阜自由行攻略",
+          "url": "https://chubu.letsgojp.com/archives/323576/"
+        },
+        {
+          "label": "新穗高纜車官方",
+          "url": "https://shinhotaka-ropeway.jp/en/access"
+        }
+      ]
+    },
+    {
+      "id": "coffeeDon",
+      "name": "コーヒー ドン",
+      "nameZh": "Coffee Don",
+      "lat": 36.1427233,
+      "lng": 137.2576895,
+      "address": "岐阜県高山市本町2-52",
+      "description": "高山舊街附近的咖啡店；可選短停。",
+      "tips": [
+        "07:30–21:30，週二休息"
+      ],
+      "photoId": "takayamaTown",
+      "category": "food"
+    },
+    {
+      "id": "wakachiya",
+      "name": "飛騨牛すきやきしゃぶしゃぶ 中橋 わかちや",
+      "nameZh": "飛驒牛 わかちや",
+      "lat": 36.1426,
+      "lng": 137.257,
+      "address": "岐阜県高山市片原町88",
+      "description": "近中橋的飛驒牛料理，可作酒店晚餐替代。",
+      "tips": [
+        "營業 10:30–19:00，最後點餐 18:00",
+        "晚間用餐需預約"
+      ],
+      "photoId": "wakachiya",
+      "category": "food"
+    },
+    {
+      "id": "shishimaru",
+      "name": "麺家 獅子丸",
+      "nameZh": "麵家 獅子丸",
+      "lat": 35.1744608,
+      "lng": 136.8793602,
+      "address": "愛知県名古屋市中村区亀島2-1-1",
+      "description": "名古屋站附近拉麵店；首晚 check-in 後的指定晚餐。",
+      "tips": [
+        "11:00–14:30／17:30–21:30（最後點餐 21:00）",
+        "不設預約",
+        "酒店京阪地鐵／步行約 15–20 分鐘"
+      ],
+      "photoId": "ramen",
+      "category": "food",
+      "sources": [
+        {
+          "label": "Google Maps",
+          "url": "https://maps.app.goo.gl/CjGrPA88umj1FP4u8"
+        },
+        {
+          "label": "官方店舖資訊",
+          "url": "https://www.menya-hanzo.com/shopinfo.html"
+        }
+      ]
+    },
+    {
+      "id": "uniqloGateTower",
+      "name": "ユニクロ 名古屋店（JRゲートタワー）",
+      "nameZh": "UNIQLO 名古屋店（JR Gate Tower）",
+      "lat": 35.1722069,
+      "lng": 136.882618,
+      "address": "愛知県名古屋市中村区名駅1-1-3 JRゲートタワー 11F",
+      "description": "名古屋站直結 JR Gate Tower 11F；東海區最大規模 UNIQLO，適合補禦寒衣物。",
+      "tips": [
+        "全日約 10:00–21:00",
+        "站內直達，無需出站淋雨"
+      ],
+      "photoId": "uniqloGateTower",
+      "category": "other",
+      "sources": [
+        {
+          "label": "Google Maps",
+          "url": "https://maps.app.goo.gl/jqzGox3yBtFAvtNN6"
+        },
+        {
+          "label": "JR Gate Tower 營業資訊",
+          "url": "https://www.towers.jp/information/"
+        }
+      ]
+    },
+    {
+      "id": "animateNagoya",
+      "name": "アニメイト名古屋",
+      "nameZh": "Animate 名古屋",
+      "lat": 35.1680132,
+      "lng": 136.8807013,
+      "address": "愛知県名古屋市中村区椿町18-4 椿太閤ビル",
+      "description": "名古屋站太閤通口徒歩約 5 分；漫畫、角色商品、Figure 與同人相關齊全。",
+      "tips": [
+        "全日 10:00–20:00",
+        "鄰近 Melon Books，可順路"
+      ],
+      "photoId": "animateNagoya",
+      "category": "other",
+      "sources": [
+        {
+          "label": "Google Maps",
+          "url": "https://maps.app.goo.gl/Ku5Eys1rG6o3tyjRA"
+        },
+        {
+          "label": "Animate 名古屋官方",
+          "url": "https://www.animate.co.jp/shop/nagoya/"
+        }
+      ]
+    },
+    {
+      "id": "melonbooksNagoya",
+      "name": "メロンブックス名古屋店",
+      "nameZh": "Melon Books 名古屋店",
+      "lat": 35.1680642,
+      "lng": 136.879203,
+      "address": "愛知県名古屋市中村区椿町21-2 第2太閤ビル 1F",
+      "description": "名古屋站太閤通口附近同人誌／新品書店；與 Animate 同區步行即到。",
+      "tips": [
+        "平日約 10:30–21:00；週末約 10:00–21:00",
+        "Animate 閉店後仍可續逛"
+      ],
+      "photoId": "melonbooksNagoya",
+      "category": "other",
+      "sources": [
+        {
+          "label": "Google Maps",
+          "url": "https://maps.app.goo.gl/DFNb7nEmMqLgB6cP7"
+        },
+        {
+          "label": "Melon Books 名古屋店",
+          "url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=14"
+        }
+      ]
+    },
+    {
+      "id": "osuShintenchi",
+      "name": "大須・新天地通",
+      "nameZh": "大須・新天地通",
+      "lat": 35.1598,
+      "lng": 136.9035,
+      "address": "愛知県名古屋市中区大須3丁目・新天地通",
+      "description": "大須拱廊美食／雜貨街；與萬松寺通相連，小吃與招財貓打卡點多，可再轉仁王門通或赤門通。",
+      "tips": [
+        "地鐵大須觀音站／上前津皆可到達",
+        "拱廊可避雨",
+        "新天地通招財貓好拍照"
+      ],
+      "photoId": "osuShintenchi",
+      "category": "area",
+      "sources": [
+        {
+          "label": "大須商店街指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+        }
+      ]
+    },
+    {
+      "id": "osuAkamon",
+      "name": "大須・赤門通",
+      "nameZh": "大須・赤門通",
+      "lat": 35.1602,
+      "lng": 136.9048,
+      "address": "愛知県名古屋市中区大須3丁目・赤門通",
+      "description": "大須動漫／電器核心街；まんだらけ、ジャングル、駿河屋多集中在赤門通與附近路地。",
+      "tips": [
+        "地鐵上前津 8／12 出口較近",
+        "多數店約 12:00–20:00"
+      ],
+      "photoId": "osuAkamon",
+      "category": "area",
+      "sources": [
+        {
+          "label": "大須商店街指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+        }
+      ]
+    },
+    {
+      "id": "mandarakeNagoya",
+      "name": "まんだらけ名古屋店",
+      "nameZh": "まんだらけ名古屋店",
+      "lat": 35.15999,
+      "lng": 136.90447,
+      "address": "愛知県名古屋市中区大須3-18-21",
+      "description": "赤門通旁大型中古動漫店（約 4 層）：漫畫、同人、Figure、卡片、特撮。",
+      "tips": [
+        "12:00–20:00（年中無休）",
+        "上前津 8 出口步行約 4–5 分"
+      ],
+      "photoId": "mandarakeNagoya",
+      "category": "other",
+      "sources": [
+        {
+          "label": "Mandarake 名古屋",
+          "url": "https://www.mandarake.co.jp/dir/ngy/"
+        },
+        {
+          "label": "樓層導覽",
+          "url": "https://www.mandarake.co.jp/shop/ngy/floor_guide.html"
+        }
+      ]
+    },
+    {
+      "id": "nagoyaParco",
+      "name": "名古屋PARCO",
+      "nameZh": "名古屋 PARCO",
+      "lat": 35.16357,
+      "lng": 136.90807,
+      "address": "愛知県名古屋市中区栄3-29-1",
+      "description": "榮區潮流百貨；東館有 Pokémon Center，另有 Animate 名古屋パルコ、服飾與雜貨。大須後往榮晚餐可順路。",
+      "tips": [
+        "物販約 10:00–20:00",
+        "地鐵矢場町／榮站步行約 5–8 分"
+      ],
+      "photoId": "nagoyaParco",
+      "category": "other",
+      "sources": [
+        {
+          "label": "名古屋 PARCO",
+          "url": "https://nagoya.parco.jp/info/"
+        },
+        {
+          "label": "Pokémon Center Nagoya",
+          "url": "https://www.pokemon.co.jp/shop/pokecen/nagoya/"
+        }
+      ]
+    },
+    {
+      "id": "atsuta",
+      "name": "熱田神宮",
+      "nameZh": "熱田神宮",
+      "lat": 35.1254307,
+      "lng": 136.9092535,
+      "address": "愛知県名古屋市熱田区神宮1-1-1",
+      "description": "創建可溯至 113 年，供奉三神器之一草薙神劍；境內約 19 萬㎡，含本宮、信長塀、大楠與寶物館。",
+      "tips": [
+        "參拜免費、全天開放",
+        "名鐵神宮前站步行約 100 公尺可到東門",
+        "寶物館 9:00–16:30（最晚入場 16:00），大人 ¥500",
+        "可求勝守／御朱印",
+        "信長塀為桶狹間之戰還願土牆"
+      ],
+      "photoId": "atsuta",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "熱田神宮完整指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20401/"
+        },
+        {
+          "label": "名古屋必去景點19選",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20175/"
+        }
+      ]
+    },
+    {
+      "id": "horaiken",
+      "name": "あつた蓬莱軒 本店",
+      "nameZh": "あつた蓬萊軒 本店",
+      "lat": 35.122771,
+      "lng": 136.908975,
+      "address": "愛知県名古屋市熱田区神戸町503",
+      "description": "1873 年於熱田門前町開業，「鰻魚蓋飯三吃（hitsumabushi）」發祥店。",
+      "tips": [
+        "午市 11:30–14:30、晚市 16:30–20:30 最後點餐",
+        "人氣單點可能提早停止受理",
+        "參拜熱田神宮後順路前往"
+      ],
+      "photoId": "hitsumabushi",
+      "category": "food",
+      "sources": [
+        {
+          "label": "蓬萊軒官方",
+          "url": "https://www.houraiken.com/access.html"
+        },
+        {
+          "label": "熱田神宮周邊美食",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20401/"
+        }
+      ]
+    },
+    {
+      "id": "arte",
+      "name": "ARTE MUSEUM NAGOYA",
+      "nameZh": "ARTE MUSEUM NAGOYA",
+      "lat": 34.957803,
+      "lng": 136.826547,
+      "address": "愛知県知多市新舞子大瀬8-22",
+      "description": "新舞子沉浸式數碼藝術場館。",
+      "tips": [
+        "10:00–20:00，最遲入場 19:00",
+        "建議預留約 90 分鐘"
+      ],
+      "photoId": "digitalArt",
+      "category": "attraction"
+    },
+    {
+      "id": "oasis21",
+      "name": "オアシス21",
+      "nameZh": "Oasis 21・榮",
+      "lat": 35.17083,
+      "lng": 136.90944,
+      "address": "愛知県名古屋市東区東桜1-11-1",
+      "description": "榮站直結的立體公園與「水の宇宙船」玻璃屋頂；晚間燈光與名古屋電視塔同框，名古屋最推薦的免費夜景。",
+      "tips": [
+        "地鐵榮站東改札直結",
+        "水の宇宙船約 10:00–21:00，建議 20:30 前上去",
+        "酒店京阪步行約 10–12 分鐘"
+      ],
+      "photoId": "oasis21",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "Oasis 21 官方",
+          "url": "https://www.sakaepark.co.jp/"
+        },
+        {
+          "label": "名古屋夜間景點",
+          "url": "https://chubu.letsgojp.com/archives/46520/"
+        }
+      ]
+    },
+    {
+      "id": "miraiTower",
+      "name": "中部電力 MIRAI TOWER",
+      "nameZh": "名古屋電視塔（MIRAI TOWER）",
+      "lat": 35.1703,
+      "lng": 136.9083,
+      "address": "愛知県名古屋市中区錦3-6-15先",
+      "description": "日本第一座集約電波塔；可登展望台俯瞰榮夜景與 Oasis 21。塔下即久屋大通公園，酒店京阪步行約 8–10 分鐘。",
+      "tips": [
+        "平日／日 10:00–21:00（最終入場約 20:40）",
+        "週六延長至約 21:40",
+        "成人票約 ¥1,300；地面看燈光亦可",
+        "塔旁 HARBS 栄本店可買蛋糕（約至 20:00）"
+      ],
+      "photoId": "miraiTower",
+      "category": "attraction",
+      "sources": [
+        {
+          "label": "MIRAI TOWER 官方",
+          "url": "https://www.nagoya-tv-tower.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "hisayaPark",
+      "name": "Hisaya-odori Park",
+      "nameZh": "久屋大通公園（RAYARD）",
+      "lat": 35.1709,
+      "lng": 136.9075,
+      "address": "愛知県名古屋市中区錦3・久屋大通",
+      "description": "酒店與電視塔之間的都會綠帶：草坪、噴水、約 35 間餐廳／選物店；夜間可邊散步邊看 MIRAI TOWER 燈光，適合入住後先放鬆。",
+      "tips": [
+        "京阪酒店／久屋大通站步行約 4–8 分鐘",
+        "免費開放；店家營業時間各異",
+        "可順路到 HARBS 栄本店（錦 3-6-17）"
+      ],
+      "photoId": "hisayaPark",
+      "category": "area",
+      "sources": [
+        {
+          "label": "Hisaya-odori Park",
+          "url": "https://mitsui-shopping-park.com/urban/hisaya/"
+        },
+        {
+          "label": "SHACHIme 介紹",
+          "url": "https://shachime.com/ja/spot/hisaya-odori-park/"
+        }
+      ]
+    },
+    {
+      "id": "aeonTokoname",
+      "name": "イオンモール常滑",
+      "nameZh": "永旺夢樂城常滑",
+      "lat": 34.8867,
+      "lng": 136.8312,
+      "address": "愛知県常滑市りんくう町2-20-3",
+      "description": "機場旁大型商場（約 160 店）：藥妝、服飾、雜貨與午餐；名鐵臨空常滑站步行約 1 分鐘，再一站即中部國際機場。適合返程日輕鬆購物與補手信。",
+      "tips": [
+        "館內多樓層有置物櫃",
+        "約 10:00–21:00（店家或有不同）",
+        "巨型招財貓「お多福」可打卡"
+      ],
+      "photoId": "aeonTokoname",
+      "category": "area",
+      "sources": [
+        {
+          "label": "AEON MALL 常滑",
+          "url": "https://tokoname-aeonmall.com/"
+        },
+        {
+          "label": "機場周邊購物介紹",
+          "url": "https://chubu.letsgojp.com/archives/363473/"
+        }
+      ]
+    },
+    {
+      "id": "osu",
+      "name": "大須商店街",
+      "nameZh": "大須商店街",
+      "lat": 35.159789,
+      "lng": 136.902574,
+      "address": "愛知県名古屋市中区大須",
+      "description": "名古屋最大商店街，約 1,200 家店；有拱廊可避雨，亦是日本三大電器／御宅族街之一。鄰近大須觀音。",
+      "tips": [
+        "地鐵大須觀音站 2 號出口步行約 3 分鐘",
+        "多數店約 12:00–20:00，依店家而異",
+        "可逛新天地通小吃、萬松寺通時尚、仁王門通觀音前、赤門通次文化",
+        "大須觀音正殿巨燈籠與每月 18／28 日緣日市集值得一看"
+      ],
+      "photoId": "osu",
+      "category": "area",
+      "sources": [
+        {
+          "label": "大須商店街完整指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+        },
+        {
+          "label": "名古屋必去景點19選（含大須觀音標示資訊）",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20175/"
+        }
+      ]
+    },
+    {
+      "id": "shige",
+      "name": "炭火焼鳥しげ 栄本店",
+      "nameZh": "炭火燒鳥しげ 栄本店",
+      "lat": 35.168228,
+      "lng": 136.906778,
+      "address": "愛知県名古屋市中区栄3-2-30 秀和ビルB1",
+      "description": "榮站附近的炭火燒鳥。",
+      "tips": [
+        "週二至日及假日 17:30–23:30",
+        "週一休息"
+      ],
+      "photoId": "yakitori",
+      "category": "food"
+    },
+    {
+      "id": "kanko",
+      "name": "名古屋観光ホテル",
+      "nameZh": "名古屋觀光酒店",
+      "lat": 35.167411,
+      "lng": 136.896771,
+      "address": "愛知県名古屋市中区錦1-19-30",
+      "description": "旅程後段兩晚住宿。",
+      "photoId": "kanko",
+      "category": "hotel",
+      "tips": []
+    },
+    {
+      "id": "glitchCoffee",
+      "name": "GLITCH COFFEE & ROASTERS Nagoya",
+      "nameZh": "GLITCH COFFEE 名古屋店",
+      "lat": 35.1744222,
+      "lng": 136.8844179,
+      "address": "愛知県名古屋市中村区名駅2-42-2（9h nine hours 名駅前）",
+      "description": "名站附近精品咖啡；單一產區手沖／義式。附設於 9h 膠囊旅館一樓，黑系店裝好拍。",
+      "tips": [
+        "週一至五 08:00–19:00；週六日 09:00–19:00",
+        "電話 050-1807-3340",
+        "名站地下 1 出口步行約 2–4 分"
+      ],
+      "photoId": "glitchCoffee",
+      "category": "food",
+      "sources": [
+        {
+          "label": "官方店家頁",
+          "url": "https://shop.glitchcoffee.com/en/pages/store-nagoya"
+        },
+        {
+          "label": "Google Maps",
+          "url": "https://www.google.com/maps/place/GLITCH+COFFEE+%26+ROASTERS+Nagoya/@35.1744222,136.8844179,17z"
+        }
+      ]
+    },
+    {
+      "id": "katsugyu",
+      "name": "牛炸牛排京都勝牛 名古屋伏見",
+      "nameZh": "牛炸牛排京都勝牛 名古屋伏見",
+      "lat": 35.166918,
+      "lng": 136.899398,
+      "address": "愛知県名古屋市中区栄2-8-8 第2松本ビル 1F",
+      "description": "牛炸牛排專門店，鄰近伏見站，步行約3分鐘。",
+      "tips": [
+        "11:00–22:00（料理最後點餐21:30）",
+        "不可預約",
+        "電話 052-231-0777"
+      ],
+      "photoId": "katsugyu",
+      "category": "food",
+      "sources": [
+        {
+          "label": "Tabelog",
+          "url": "https://tabelog.com/tw/aichi/A2301/A230102/23059720/"
+        },
+        {
+          "label": "官方網站",
+          "url": "https://gyukatsu-kyotokatsugyu.com/store/nagoyafushimi"
+        }
+      ]
+    },
+    {
+      "id": "wagyuShogun",
+      "name": "和牛 将軍",
+      "nameZh": "和牛将軍（Wagyu Shogun）",
+      "lat": 36.14295,
+      "lng": 137.2574,
+      "address": "岐阜県高山市片原町72",
+      "description": "舊街旁飛驒牛燒肉；一頭買い、平板點餐可刷卡，Instagram 推薦順路吃飛驒牛。高山站步行約 8–11 分鐘。",
+      "tips": [
+        "11:00–20:00（L.O. 19:30）",
+        "每月第 3 週六日休（預約可營業）",
+        "電話 0577-57-7875",
+        "預算約 ¥5,000–5,999／人"
+      ],
+      "photoId": "hidaBeef",
+      "category": "food",
+      "sources": [
+        {
+          "label": "和牛将軍官方",
+          "url": "https://wagyu-shogun.com/"
+        },
+        {
+          "label": "Instagram 推薦 reel",
+          "url": "https://www.instagram.com/reel/DYE1xQiRWwq/"
+        }
+      ]
+    },
+    {
+      "id": "ajikura",
+      "name": "味蔵天国",
+      "nameZh": "味藏天國",
+      "lat": 36.1398,
+      "lng": 137.2522,
+      "address": "岐阜県高山市花里町4-308",
+      "description": "高山站南步行約 1 分鐘的 JA 飛驒牛燒肉專門店；Instagram 高山美食特輯第 13 間。可燒肉／壽喜燒／涮涮鍋。",
+      "tips": [
+        "11:00–14:30（L.O.14:00）／17:00–21:30（L.O.21:00）",
+        "週二休；第 2・4 週三休",
+        "建議提早抽號碼牌",
+        "電話 0577-37-1129"
+      ],
+      "photoId": "hidaBeef",
+      "category": "food",
+      "sources": [
+        {
+          "label": "味藏天國官方",
+          "url": "http://www.ajikura.jp/"
+        },
+        {
+          "label": "Instagram 高山美食特輯",
+          "url": "https://www.instagram.com/p/Deg6IBkoAgZ/"
+        }
+      ]
+    },
+    {
+      "id": "kinnoKotte",
+      "name": "金乃こって牛",
+      "nameZh": "金乃こって牛",
+      "lat": 36.1415,
+      "lng": 137.2592,
+      "address": "岐阜県高山市上二之町76",
+      "description": "舊街上二之町飛驒牛握壽司；三種盛り約 ¥1,200，排隊較姊妹店少。適合午後小吃。",
+      "tips": [
+        "10:00–17:00，週四休",
+        "現點現做"
+      ],
+      "photoId": "hidaBeef",
+      "category": "food",
+      "sources": [
+        {
+          "label": "金乃こって牛官方",
+          "url": "https://kinno-kotteushi.jp/"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "id": 1,
+      "date": "12 月 10 日",
+      "weekday": "星期四",
+      "title": "香港 → 名古屋・名站晚間",
+      "route": "入住後・獅子丸晚餐・UNIQLO・Animate・Melon Books・回酒店",
+      "stops": [
+        {
+          "id": "d1-uo680",
+          "time": "10:00",
+          "title": "香港快運 UO680 起飛",
+          "description": "香港國際機場 T2 出發，飛往中部國際機場 NGO；計劃抵達時間 14:30。",
+          "tag": "航班",
+          "placeId": "hongKongAirport",
+          "photoId": "hongKong",
+          "sources": [
+            {
+              "label": "香港快運",
+              "url": "https://www.hkexpress.com/zh-hk/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d1-arrive-ngo",
+          "time": "14:30",
+          "title": "抵達中部國際機場 NGO",
+          "description": "入境及取行李後，直乘名鐵往名古屋市區；常滑留返程日再訪。",
+          "tag": "抵達",
+          "placeId": "airport",
+          "photoId": "airport",
+          "tips": [
+            "μ-SKY／快速特急約 28–35 分鐘至名鐵名古屋"
+          ],
+          "sources": [
+            {
+              "label": "中部國際機場官方交通",
+              "url": "https://www.centrair.jp/en/access/train.html"
+            }
+          ]
+        },
+        {
+          "id": "d1-to-nagoya",
+          "time": "15:30",
+          "title": "名鐵機場線 → 名鐵名古屋",
+          "description": "帶行李直達市區，再往錦區酒店；先 check-in／寄行李，晚上輕裝往名站一帶。",
+          "tag": "名鐵",
+          "placeId": "nagoyaStation",
+          "photoId": "nagoyaStation",
+          "sources": [
+            {
+              "label": "中部國際機場官方交通",
+              "url": "https://www.centrair.jp/en/access/train.html"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d1-keihan",
+          "time": "16:45",
+          "title": "入住京阪名古屋酒店",
+          "description": "錦區首晚（入住 15:00 起）。放下行李後往名站：先吃獅子丸，再逛 Gate Tower／太閤通口書店。",
+          "tag": "住宿",
+          "placeId": "keihan",
+          "photoId": "keihan",
+          "tips": [
+            "電話 052-954-0321",
+            "晚間往名站約 15–20 分鐘"
+          ],
+          "sources": [
+            {
+              "label": "酒店官方設施及交通",
+              "url": "https://www.hotelkeihan.co.jp/nagoya/facilities"
+            }
+          ]
+        },
+        {
+          "id": "d1-shishimaru",
+          "time": "17:40",
+          "title": "晚餐：麵家 獅子丸",
+          "description": "你指定的首晚晚餐。龜島 2-1-1，晚市 17:30–21:30（L.O.21:00）。吃完步行／地鐵往 JR Gate Tower。",
+          "tag": "晚餐",
+          "placeId": "shishimaru",
+          "photoId": "ramen",
+          "tips": [
+            "不設預約，晚市準時較易入",
+            "Animate 20:00 關，建議 60–75 分鐘內完食"
+          ],
+          "highlightsTitle": "首晚路線（依 Maps）",
+          "highlights": [
+            {
+              "name": "麵家 獅子丸",
+              "category": "晚餐",
+              "note": "check-in 後第一站",
+              "address": "中村区亀島2-1-1",
+              "hours": "17:30–21:30（L.O.21:00）",
+              "url": "https://maps.app.goo.gl/CjGrPA88umj1FP4u8"
+            },
+            {
+              "name": "UNIQLO Gate Tower",
+              "category": "購物",
+              "note": "晚餐後第二站；約至 21:00",
+              "url": "https://maps.app.goo.gl/jqzGox3yBtFAvtNN6"
+            },
+            {
+              "name": "Animate 名古屋",
+              "category": "動漫店",
+              "note": "太閤通口；全日約至 20:00",
+              "url": "https://maps.app.goo.gl/Ku5Eys1rG6o3tyjRA"
+            },
+            {
+              "name": "Melon Books 名古屋",
+              "category": "書店",
+              "note": "與 Animate 同區；約至 21:00",
+              "url": "https://maps.app.goo.gl/DFNb7nEmMqLgB6cP7"
+            }
+          ],
+          "sources": [
+            {
+              "label": "Google Maps",
+              "url": "https://maps.app.goo.gl/CjGrPA88umj1FP4u8"
+            },
+            {
+              "label": "Tabelog",
+              "url": "https://tabelog.com/tw/aichi/A2301/A230101/23060674/"
+            }
+          ]
+        },
+        {
+          "id": "d1-uniqlo",
+          "time": "19:00",
+          "title": "UNIQLO 名古屋店（JR Gate Tower）",
+          "description": "名站直結 Gate Tower 11F；可補十二月禦寒／輕便衣物。約開至 21:00。下一站 Animate 較趕時可先跳過，改去太閤通口。",
+          "tag": "購物",
+          "placeId": "uniqloGateTower",
+          "photoId": "uniqloGateTower",
+          "tips": [
+            "約 10:00–21:00",
+            "出站後往太閤通口約 5–8 分鐘"
+          ],
+          "sources": [
+            {
+              "label": "Google Maps",
+              "url": "https://maps.app.goo.gl/jqzGox3yBtFAvtNN6"
+            },
+            {
+              "label": "JR Gate Tower",
+              "url": "https://www.towers.jp/information/"
+            }
+          ]
+        },
+        {
+          "id": "d1-animate",
+          "time": "19:40",
+          "title": "Animate 名古屋",
+          "description": "太閤通口徒步約 5 分（椿町 18-4）。漫畫、周邊與 Figure；全日約 10:00–20:00，請預留結帳時間。",
+          "tag": "動漫店",
+          "placeId": "animateNagoya",
+          "photoId": "animateNagoya",
+          "tips": [
+            "20:00 閉店",
+            "隔壁區即 Melon Books"
+          ],
+          "sources": [
+            {
+              "label": "Google Maps",
+              "url": "https://maps.app.goo.gl/Ku5Eys1rG6o3tyjRA"
+            },
+            {
+              "label": "Animate 官方",
+              "url": "https://www.animate.co.jp/shop/nagoya/"
+            }
+          ]
+        },
+        {
+          "id": "d1-melonbooks",
+          "time": "20:10",
+          "title": "Melon Books 名古屋店",
+          "description": "椿町 21-2 第2太閤ビル 1F；同人／新品。Animate 旁步行即到，約開至 21:00。",
+          "tag": "書店",
+          "placeId": "melonbooksNagoya",
+          "photoId": "melonbooksNagoya",
+          "tips": [
+            "平日約 10:30–21:00",
+            "逛完回錦區酒店"
+          ],
+          "sources": [
+            {
+              "label": "Google Maps",
+              "url": "https://maps.app.goo.gl/DFNb7nEmMqLgB6cP7"
+            },
+            {
+              "label": "Melon Books 店舖頁",
+              "url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=14"
+            }
+          ]
+        },
+        {
+          "id": "d1-back-hotel",
+          "time": "21:00",
+          "title": "返回京阪名古屋酒店",
+          "description": "太閤通口／名站搭地鐵回久屋大通／榮一帶，或計程車約 10–15 分鐘。早睡應付明早 09:50 名鐵巴士中心出發。",
+          "tag": "回酒店",
+          "placeId": "keihan",
+          "photoId": "keihan",
+          "tips": [
+            "明早巴士 09:50，建議 23:00 前入睡"
+          ],
+          "sources": [
+            {
+              "label": "酒店官方",
+              "url": "https://www.hotelkeihan.co.jp/nagoya/facilities"
+            }
+          ]
+        }
+      ],
+      "note": "常滑改至 Day 5。入住後依你提供的 Maps 路線：晚餐麵家獅子丸 → UNIQLO Gate Tower → Animate 名古屋 → Melon Books 名古屋 → 回京阪酒店。Animate 全日約至 20:00，晚餐請勿拖太長。",
+      "noteSources": [
+        {
+          "label": "麵家獅子丸 Maps",
+          "url": "https://maps.app.goo.gl/CjGrPA88umj1FP4u8"
+        },
+        {
+          "label": "Animate 名古屋",
+          "url": "https://www.animate.co.jp/shop/nagoya/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "12 月 11 日",
+      "weekday": "星期五",
+      "title": "名古屋 → 白川鄉 → 高山",
+      "route": "合掌造聚落・飛驒高山",
+      "stops": [
+        {
+          "id": "d2-bus-to-shirakawa",
+          "time": "09:50",
+          "title": "名鐵巴士中心 → 白川鄉",
+          "description": "已訂通常プラン（預約號 13911）：09:50 名鐵巴士中心（名古屋）上車，12:40 白川鄉①乗り場（金澤站方向）下車；名古屋⇒白川鄉･金澤線，3 人。車資合計 ¥14,100（約 HK$700.1，每人約 HK$233.33）。",
+          "tag": "高速巴士",
+          "placeId": "meitetsuBusCenter",
+          "photoId": "meitetsuBusCenter",
+          "tips": [
+            "請提前至名鐵巴士中心乘車處候車",
+            "冬季道路可能延誤"
+          ],
+          "sources": [
+            {
+              "label": "岐阜・白川鄉交通攻略",
+              "url": "https://chubu.letsgojp.com/archives/323576/"
+            },
+            {
+              "label": "白川鄉官方交通",
+              "url": "https://shirakawa-go.gr.jp/en/access/"
+            }
+          ]
+        },
+        {
+          "id": "d2-village",
+          "time": "12:40",
+          "title": "抵達白川鄉・荻町散策",
+          "description": "12:40 下車後進入世界遺產合掌造聚落；步行欣賞合掌屋街景，私家車不可駛入村內道路。",
+          "tag": "世界遺產",
+          "placeId": "village",
+          "photoId": "villageStreet",
+          "sources": [
+            {
+              "label": "岐阜自由行：白川鄉・高山攻略",
+              "url": "https://chubu.letsgojp.com/archives/323576/"
+            },
+            {
+              "label": "白川鄉官方交通",
+              "url": "https://shirakawa-go.gr.jp/en/access/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d2-lunch",
+          "time": "13:15",
+          "title": "午餐及村內漫步",
+          "description": "抵達後先安排午餐，再繼續行走荻町街巷；冬季日照較短，把握下午時光。",
+          "tag": "荻町",
+          "placeId": "village",
+          "photoId": "shirakawa",
+          "sources": [
+            {
+              "label": "岐阜自由行攻略",
+              "url": "https://chubu.letsgojp.com/archives/323576/"
+            },
+            {
+              "label": "白川鄉旅遊資訊",
+              "url": "https://shirakawa-go.gr.jp/en/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d2-lookout",
+          "time": "14:15",
+          "title": "荻町城跡展望台",
+          "description": "建議搭乘展望台接駁車：由和田家附近上車、約每 20 分鐘一班，單程現金 ¥200。亦可選擇步行上山俯瞰合掌村全景。",
+          "tag": "展望台",
+          "placeId": "lookout",
+          "photoId": "lookout",
+          "sources": [
+            {
+              "label": "岐阜自由行攻略",
+              "url": "https://chubu.letsgojp.com/archives/323576/"
+            },
+            {
+              "label": "白川鄉官方 FAQ",
+              "url": "https://shirakawa-go.gr.jp/en/faq/5"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d2-to-takayama",
+          "time": "15:45",
+          "title": "白川鄉ＢＴ集合 → 高山",
+          "description": "集合乘車處：白川鄉バスターミナル（荻町 1086）。已訂通常プラン（預約號 505）：15:45 白川鄉ＢＴ 上車，16:35 高山濃飛巴士中心下車；富山・高岡⇒白川鄉⇒高山線，3 人。車資合計 ¥8,700（約 HK$433，每人約 HK$144.3）。",
+          "tag": "巴士",
+          "placeId": "busTerminal",
+          "photoId": "busTerminal",
+          "tips": [
+            "請提前至白川鄉ＢＴ集合候車",
+            "Google Maps 請開「白川郷バスターミナル」",
+            "冬季道路可能延誤"
+          ],
+          "sources": [
+            {
+              "label": "岐阜自由行攻略",
+              "url": "https://chubu.letsgojp.com/archives/323576/"
+            },
+            {
+              "label": "白川鄉官方交通",
+              "url": "https://shirakawa-go.gr.jp/en/access/"
+            }
+          ]
+        },
+        {
+          "id": "d2-green-hotel",
+          "time": "16:50",
+          "title": "高山綠色酒店入住",
+          "description": "約 16:35 抵達濃飛巴士中心後步行／短程入住。晚餐優先舊街飛驒牛（和牛将軍）；亦可酒店會席。三者擇一即可。",
+          "tag": "住宿",
+          "placeId": "greenHotel",
+          "photoId": "takayamaHotel",
+          "sources": [
+            {
+              "label": "酒店官方 FAQ",
+              "url": "https://www.takayama-gh.com/en/faq"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d2-wagyu-shogun",
+          "time": "17:30",
+          "title": "和牛将軍・飛驒牛燒肉",
+          "description": "舊街片原町 72；Instagram 推薦順路吃飛驒牛燒肉／牛排。11:00–20:00（L.O.19:30），平板點餐可刷卡。約 17:00 前入店通常較易。本組最推薦；其餘替代請點「其他選項」。",
+          "tag": "飛驒牛・首選",
+          "placeId": "wagyuShogun",
+          "photoId": "hidaBeef",
+          "tips": [
+            "電話 0577-57-7875",
+            "站步行約 8–11 分鐘",
+            "預算約 ¥5,000–6,000／人"
+          ],
+          "choiceGroup": "d2-dinner",
+          "primary": true,
+          "highlightsTitle": "高山飛驒牛怎麼選（連結優先）",
+          "highlights": [
+            {
+              "name": "和牛将軍（本晚優先）",
+              "category": "燒肉・舊街",
+              "note": "舊街順路、CP 好評；reel 推薦",
+              "url": "https://wagyu-shogun.com/"
+            },
+            {
+              "name": "味藏天國",
+              "category": "燒肉・車站",
+              "note": "站南步行 1 分；IG 高山美食特輯 #13；可改在回程傍晚",
+              "url": "http://www.ajikura.jp/"
+            },
+            {
+              "name": "わかちや（中橋）",
+              "category": "壽喜燒",
+              "note": "看中橋吃壽喜燒；L.O. 較早需預約",
+              "url": "https://www.hidatakayama.or.jp/eat/detail_5946.html"
+            },
+            {
+              "name": "金乃こって牛",
+              "category": "小吃",
+              "note": "飛驒牛握壽司三種盛り約 ¥1,200；午後點心"
+            }
+          ],
+          "sources": [
+            {
+              "label": "和牛将軍官方",
+              "url": "https://wagyu-shogun.com/"
+            },
+            {
+              "label": "Instagram reel",
+              "url": "https://www.instagram.com/reel/DYE1xQiRWwq/"
+            },
+            {
+              "label": "Instagram 高山美食特輯",
+              "url": "https://www.instagram.com/p/Deg6IBkoAgZ/"
+            }
+          ]
+        },
+        {
+          "id": "d2-wakachiya",
+          "time": "17:30",
+          "title": "飛驒牛 わかちや",
+          "description": "近中橋片原町 88；壽喜燒／涮涮鍋看河景。營業至約 19:00、最後點餐約 18:00，晚間需預約。與和牛将軍擇一。",
+          "tag": "替代・壽喜燒",
+          "placeId": "wakachiya",
+          "photoId": "wakachiya",
+          "optional": true,
+          "choiceGroup": "d2-dinner",
+          "primary": false,
+          "sources": [
+            {
+              "label": "飛驒高山官方餐飲指南",
+              "url": "https://www.hidatakayama.or.jp/eat/detail_5946.html"
+            },
+            {
+              "label": "Instagram 高山美食特輯",
+              "url": "https://www.instagram.com/p/Deg6IBkoAgZ/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d2-ajikura",
+          "time": "17:30",
+          "title": "味藏天國（車站）",
+          "description": "高山站南花里町；IG 特輯第 13。燒肉／壽喜燒／涮涮鍋。想在車站附近用餐可選；與和牛将軍擇一。",
+          "tag": "替代・燒肉",
+          "placeId": "ajikura",
+          "photoId": "hidaBeef",
+          "optional": true,
+          "choiceGroup": "d2-dinner",
+          "primary": false,
+          "sources": [
+            {
+              "label": "味藏天國官方",
+              "url": "http://www.ajikura.jp/"
+            },
+            {
+              "label": "Instagram 高山美食特輯",
+              "url": "https://www.instagram.com/p/Deg6IBkoAgZ/?img_index=13"
+            }
+          ],
+          "tips": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "12 月 12 日",
+      "weekday": "星期六",
+      "title": "高山 → 新穗高 → 名古屋",
+      "route": "北阿爾卑斯山景・濃飛巴士",
+      "stops": [
+        {
+          "id": "d3-bus-out",
+          "time": "07:00",
+          "title": "高山濃飛巴士中心出發",
+          "description": "2026 濃飛巴士時刻表：07:00 出發，約 08:45 抵達新穗高纜車站（約 1 小時 45 分）。",
+          "tag": "濃飛巴士",
+          "placeId": "takayamaBus",
+          "photoId": "takayamaBus",
+          "sources": [
+            {
+              "label": "濃飛巴士新穗高線時刻表",
+              "url": "https://www.nouhibus.co.jp/route_bus/shinhotaka-line"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d3-ropeway",
+          "time": "08:45",
+          "title": "新穗高纜車",
+          "description": "日本唯一雙層纜車，兩段約 25 分鐘可達西穗高口（海拔 2,156 公尺）。冬季首班較晚；強風可能停駛。山頂有 AlpScape 觀景台與頂之森，建議預留 2–3 小時。",
+          "tag": "山岳景觀",
+          "placeId": "ropeway",
+          "photoId": "ropeway",
+          "tips": [
+            "來回大人 ¥3,800",
+            "山腳山頂溫差約 6–10°C，帶外套"
+          ],
+          "sources": [
+            {
+              "label": "新穗高纜車完整指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/21213/"
+            },
+            {
+              "label": "新穗高纜車官方交通／營運",
+              "url": "https://shinhotaka-ropeway.jp/en/access"
+            }
+          ]
+        },
+        {
+          "id": "d3-bus-back",
+          "time": "11:55",
+          "title": "建議回程巴士：新穗高 → 高山",
+          "description": "建議乘 11:55 班，約 13:31 抵達高山濃飛巴士中心。12:55 班約 14:31 抵達；13:55 班約 15:31 抵達，均不宜視為穩妥銜接 15:17 JR 的方案。預留道路延誤並再次核對時刻表。",
+          "tag": "建議班次",
+          "placeId": "takayamaBus",
+          "photoId": "takayamaBus",
+          "sources": [
+            {
+              "label": "濃飛巴士 2026 時刻表",
+              "url": "https://www.nouhibus.co.jp/route_bus/shinhotaka-line"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d3-coffee-don",
+          "time": "13:45",
+          "title": "可選短停：Coffee Don／舊街小吃",
+          "description": "趕上 11:55 回程才有餘裕。Coffee Don 復古早餐／咖啡；順路可買金乃こって牛飛驒牛握壽司（約 ¥1,200）或高山布丁。若乘 12:55 班請跳過，直接 JR。",
+          "tag": "彈性短停",
+          "placeId": "coffeeDon",
+          "photoId": "takayamaTown",
+          "optional": true,
+          "highlightsTitle": "IG 高山小吃（有時間才買）",
+          "highlights": [
+            {
+              "name": "Coffee Don",
+              "category": "喫茶",
+              "note": "復古咖啡；早餐 set 很飽"
+            },
+            {
+              "name": "金乃こって牛",
+              "category": "飛驒牛握壽司",
+              "note": "三種盛り約 ¥1,200；上二之町",
+              "url": "https://kinno-kotteushi.jp/"
+            },
+            {
+              "name": "高山布丁亭／Andersen",
+              "category": "甜點",
+              "note": "布丁／可頌；朝市人氣，午後可能售完"
+            }
+          ],
+          "sources": [
+            {
+              "label": "Coffee Don（Tabelog）",
+              "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%89%E3%83%B3%20%E9%AB%98%E5%B1%B1"
+            },
+            {
+              "label": "Instagram 高山美食特輯",
+              "url": "https://www.instagram.com/p/Deg6IBkoAgZ/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d3-jr",
+          "time": "15:17",
+          "title": "JR 特急飛驒號往名古屋",
+          "description": "計劃班次 15:17 出發，約 18:06 抵達名古屋；若道路延誤或錯過此班，按實際鐵路班次調整。",
+          "tag": "JR",
+          "placeId": "nagoyaStation",
+          "photoId": "nagoyaStation",
+          "sources": [
+            {
+              "label": "JR 東海列車資訊",
+              "url": "https://railway.jr-central.co.jp/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d3-katsugyu",
+          "time": "1830",
+          "title": "牛炸牛排京都勝牛 名古屋伏見",
+          "description": "伏見站步行約3分鐘；牛炸牛排專門店，晚餐營業至22:00（料理最後點餐21:30）。",
+          "tag": "dinner",
+          "placeId": "katsugyu",
+          "photoId": "katsugyu",
+          "tips": [
+            "伏見站步行約3分鐘",
+            "電話 052-231-0777",
+            "不可預約；約 ¥1,000–1,999／人"
+          ],
+          "choiceGroup": "d3-dinner",
+          "primary": true,
+          "sources": [
+            {
+              "label": "Tabelog",
+              "url": "https://tabelog.com/tw/aichi/A2301/A230102/23059720/"
+            },
+            {
+              "label": "官方網站",
+              "url": "https://gyukatsu-kyotokatsugyu.com/store/nagoyafushimi"
+            }
+          ]
+        },
+        {
+          "id": "d3-ramen",
+          "time": "18:30",
+          "title": "麵家 獅子丸",
+          "description": "近名古屋站龜島 2-1-1，步行約 4–5 分鐘。11:00–14:30／17:30–21:30（L.O.21:00）。想吃拉麵時選此；與 Mallory 擇一。",
+          "tag": "替代・拉麵",
+          "placeId": "shishimaru",
+          "photoId": "ramen",
+          "optional": true,
+          "choiceGroup": "d3-dinner",
+          "primary": false,
+          "sources": [
+            {
+              "label": "官方店舖資訊",
+              "url": "https://www.menya-hanzo.com/shopinfo.html"
+            },
+            {
+              "label": "Tabelog 店舖頁",
+              "url": "https://tabelog.com/tw/aichi/A2301/A230101/23060674/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d3-kanko",
+          "time": "晚上",
+          "title": "入住名古屋觀光酒店",
+          "description": "由高山回名古屋後入住，酒店兩晚為 12 月 12–13 日。",
+          "tag": "住宿",
+          "placeId": "kanko",
+          "photoId": "kanko",
+          "sources": [
+            {
+              "label": "酒店官方 FAQ",
+              "url": "https://global.nagoyakankohotel.co.jp/faq"
+            }
+          ],
+          "tips": []
+        }
+      ],
+      "note": "濃飛巴士行車及纜車營運均可能受道路、天候或時刻調整影響。11:55 回程為建議方案；12:55 於 14:31 抵達、13:55 於 15:31 抵達，均不應視為穩妥銜接 15:17 JR。",
+      "noteSources": [
+        {
+          "label": "濃飛巴士時刻表",
+          "url": "https://www.nouhibus.co.jp/route_bus/shinhotaka-line"
+        },
+        {
+          "label": "纜車官方資訊",
+          "url": "https://shinhotaka-ropeway.jp/en/access"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "12 月 13 日",
+      "weekday": "星期日",
+      "title": "GLITCH COFFEE → 熱田 → 新舞子 → 大須・PARCO",
+      "route": "名站咖啡・熱田／蓬萊軒・ARTE・新天地通・大須・赤門通・まんだらけ・PARCO・燒鳥",
+      "stops": [
+        {
+          "id": "d4-glitch-coffee",
+          "time": "09:00",
+          "title": "GLITCH COFFEE & ROASTERS Nagoya",
+          "description": "Day 4 第一站：名駅 2-42-2（9h 名駅前）。星期日 09:00 開門；手沖／義式約 30–40 分鐘，再往熱田神宮。",
+          "tag": "咖啡",
+          "placeId": "glitchCoffee",
+          "photoId": "glitchCoffee",
+          "tips": [
+            "週六日 09:00–19:00（平日 08:00 起）",
+            "電話 050-1807-3340",
+            "名站地下 1 出口步行約 2–4 分"
+          ],
+          "sources": [
+            {
+              "label": "官方店家頁",
+              "url": "https://shop.glitchcoffee.com/en/pages/store-nagoya"
+            },
+            {
+              "label": "Google Maps",
+              "url": "https://www.google.com/maps/place/GLITCH+COFFEE+%26+ROASTERS+Nagoya/@35.1744222,136.8844179,17z"
+            }
+          ]
+        },
+        {
+          "id": "d4-atsuta",
+          "time": "10:15",
+          "title": "熱田神宮",
+          "description": "咖啡後搭名鐵往神宮前（約 15–20 分）。參拜本宮、信長塀與大楠；免費、全天開放。出站左轉步行約 100 公尺。",
+          "tag": "神社",
+          "placeId": "atsuta",
+          "photoId": "atsuta",
+          "tips": [
+            "可求勝守／御朱印",
+            "寶物館另收費"
+          ],
+          "sources": [
+            {
+              "label": "熱田神宮完整指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20401/"
+            },
+            {
+              "label": "名古屋必去景點19選",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20175/"
+            }
+          ]
+        },
+        {
+          "id": "d4-horaiken",
+          "time": "11:20",
+          "title": "あつた蓬萊軒 本店",
+          "description": "鰻魚蓋飯三吃發祥店（神戶町 503）。午市 11:30–14:30、晚市 16:30–20:30 最後點餐；建議 11:20 前到場排隊。相片為代表菜式，非店舖實景。",
+          "tag": "鰻魚飯",
+          "placeId": "horaiken",
+          "photoId": "hitsumabushi",
+          "sources": [
+            {
+              "label": "蓬萊軒官方交通／營業時間",
+              "url": "https://www.houraiken.com/access.html"
+            },
+            {
+              "label": "熱田周邊美食指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20401/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d4-arte",
+          "time": "13:30",
+          "title": "ARTE MUSEUM NAGOYA",
+          "description": "地址知多市新舞子大瀨 8-22；10:00–20:00，最遲入場 19:00，建議預留約 90 分鐘。三人門票合計 ¥11,400＝HK$562.89（每人 HK$187.63）已計入費用頁。圖片為數碼藝術代表視覺，非場館實景。",
+          "tag": "沉浸藝術",
+          "placeId": "arte",
+          "photoId": "digitalArt",
+          "tips": [
+            "門票三人合計 ¥11,400／HK$562.89"
+          ],
+          "sources": [
+            {
+              "label": "門票",
+              "url": "https://feverup.com/m/753163/en"
+            }
+          ]
+        },
+        {
+          "id": "d4-shintenchi",
+          "time": "16:30",
+          "title": "大須・新天地通",
+          "description": "大須拱廊美食／雜貨街，與萬松寺通相連。小吃、喫茶與招財貓打卡點多；逛完轉入大須商圈其他拱廊，再往赤門通。",
+          "tag": "新天地通",
+          "placeId": "osuShintenchi",
+          "photoId": "osuShintenchi",
+          "tips": [
+            "大須觀音站／上前津皆可",
+            "拱廊可避雨",
+            "招財貓在拱廊下好拍"
+          ],
+          "highlightsTitle": "新天地通可逛可吃",
+          "highlights": [
+            {
+              "name": "新天地通招財貓",
+              "category": "打卡",
+              "note": "紅色屋簷下的大招財貓；本站代表影像"
+            },
+            {
+              "name": "新天地通小吃",
+              "category": "美食",
+              "note": "章魚燒、鯛魚燒、點心；先填肚再逛店"
+            },
+            {
+              "name": "大須コンパル 本店",
+              "category": "喫茶",
+              "note": "蛋三明治・咖啡；名古屋喫茶代表",
+              "address": "中区大須3"
+            },
+            {
+              "name": "萬松寺通（相連）",
+              "category": "散步",
+              "note": "古著、雜貨；可與新天地通一起走"
+            }
+          ],
+          "sources": [
+            {
+              "label": "大須商店街指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+            }
+          ]
+        },
+        {
+          "id": "d4-osu",
+          "time": "17:00",
+          "title": "大須商圈（拱廊商店街）",
+          "description": "名古屋最大商店街（約 1,200 店），有拱廊可避雨；可逛美食、古著與雜貨。之後轉赤門通攻動漫店。",
+          "tag": "大須商圈",
+          "placeId": "osu",
+          "photoId": "osu",
+          "tips": [
+            "多數店約 12:00–20:00",
+            "仁王門通近大須觀音；赤門通偏動漫"
+          ],
+          "highlightsTitle": "大須商圈推薦",
+          "highlights": [
+            {
+              "name": "フジヤマ55 大須総本店",
+              "category": "拉麵／つけ麺",
+              "note": "人氣つけ麺；可試全部のせ／レッド",
+              "address": "中区大須3-11"
+            },
+            {
+              "name": "キング軒 名古屋大須店",
+              "category": "擔擔麵",
+              "note": "広島式汁なし担担麺",
+              "address": "中区大須3-19"
+            },
+            {
+              "name": "仁王門通・大須觀音",
+              "category": "散步",
+              "note": "正殿巨燈籠；緣日小吃更多"
+            }
+          ],
+          "sources": [
+            {
+              "label": "大須商店街完整指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+            }
+          ]
+        },
+        {
+          "id": "d4-akamon",
+          "time": "17:30",
+          "title": "大須・赤門通",
+          "description": "大須動漫／電器核心街。沿路有 Jungle、駿河屋、らしんばん等，下一站進まんだらけ。",
+          "tag": "赤門通",
+          "placeId": "osuAkamon",
+          "photoId": "osuAkamon",
+          "tips": [
+            "上前津 8／12 出口亦近",
+            "多數店約 12:00–20:00"
+          ],
+          "highlightsTitle": "赤門通可逛",
+          "highlights": [
+            {
+              "name": "ジャングル 名古屋店",
+              "category": "模型／特撮",
+              "note": "中古フィギュア・機器人模型；赤門通",
+              "address": "中区大須3-19-1"
+            },
+            {
+              "name": "駿河屋 名古屋大須本館",
+              "category": "遊戲／書籍",
+              "note": "3–5F 雜貨・遊戲・模型",
+              "address": "中区大須3-32-23"
+            },
+            {
+              "name": "らしんばん 名古屋大須店",
+              "category": "周邊／同人",
+              "note": "中古角色周邊；マルチナボックス 2F"
+            }
+          ],
+          "sources": [
+            {
+              "label": "大須商店街指南",
+              "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+            }
+          ]
+        },
+        {
+          "id": "d4-mandarake",
+          "time": "18:00",
+          "title": "まんだらけ名古屋店",
+          "description": "赤門通旁大須 3-18-21；約 4 層中古動漫（漫畫・同人・Figure・卡片）。12:00–20:00。逛完往榮區 PARCO。",
+          "tag": "Mandarake",
+          "placeId": "mandarakeNagoya",
+          "photoId": "mandarakeNagoya",
+          "tips": [
+            "電話 052-261-0700",
+            "上前津 8 出口步行約 4–5 分"
+          ],
+          "highlightsTitle": "樓層重點",
+          "highlights": [
+            {
+              "name": "漫畫・同人誌",
+              "category": "中古",
+              "note": "規模大，預留 45–60 分鐘"
+            },
+            {
+              "name": "Figure・卡片",
+              "category": "收藏",
+              "note": "另層專區；可先問樓層導覽"
+            }
+          ],
+          "sources": [
+            {
+              "label": "Mandarake 名古屋",
+              "url": "https://www.mandarake.co.jp/dir/ngy/"
+            },
+            {
+              "label": "樓層導覽",
+              "url": "https://www.mandarake.co.jp/shop/ngy/floor_guide.html"
+            }
+          ]
+        },
+        {
+          "id": "d4-parco",
+          "time": "18:45",
+          "title": "名古屋 PARCO",
+          "description": "榮 3-29-1；潮流百貨。可逛 Pokémon Center（東館 2F）、Animate 名古屋パルコ、服飾雜貨。物販約至 20:00，之後步行往燒鳥しげ。",
+          "tag": "PARCO",
+          "placeId": "nagoyaParco",
+          "photoId": "nagoyaParco",
+          "tips": [
+            "物販 10:00–20:00",
+            "矢場町／榮站步行約 5–8 分"
+          ],
+          "highlightsTitle": "PARCO 可看",
+          "highlights": [
+            {
+              "name": "Pokémon Center Nagoya",
+              "category": "角色店",
+              "note": "東館 2F",
+              "url": "https://www.pokemon.co.jp/shop/pokecen/nagoya/"
+            },
+            {
+              "name": "Animate 名古屋パルコ",
+              "category": "動漫店",
+              "note": "館內分店；與 Day 1 名站本店不同"
+            },
+            {
+              "name": "服飾／選物",
+              "category": "購物",
+              "note": "南館・西館；時間緊可只看一層"
+            }
+          ],
+          "sources": [
+            {
+              "label": "名古屋 PARCO",
+              "url": "https://nagoya.parco.jp/info/"
+            },
+            {
+              "label": "Pokémon Center",
+              "url": "https://www.pokemon.co.jp/shop/pokecen/nagoya/"
+            }
+          ]
+        },
+        {
+          "id": "d4-shige",
+          "time": "19:30",
+          "title": "炭火焼鳥しげ 栄本店",
+          "description": "大須／PARCO 後往榮本店晚餐。地址榮 3-2-30 秀和大樓 B1，榮站步行約 3 分鐘；週二至日及假日 17:30–23:30，週一休息。",
+          "tag": "晚餐",
+          "placeId": "shige",
+          "photoId": "yakitori",
+          "sources": [
+            {
+              "label": "官方店舖資訊",
+              "url": "https://www.yakitori-shige-sakae.com/shop"
+            },
+            {
+              "label": "Tabelog 店舖頁",
+              "url": "https://s.tabelog.com/aichi/A2301/A230103/23000689/"
+            }
+          ],
+          "tips": []
+        }
+      ],
+      "note": "星期日先到 GLITCH COFFEE（09:00 開門）。之後熱田→蓬萊軒→ARTE；傍晚：新天地通 → 大須商圈 → 赤門通 → まんだらけ → PARCO → 燒鳥。時間緊可縮拱廊、保留赤門通與まんだらけ。",
+      "noteSources": [
+        {
+          "label": "蓬萊軒官方資訊",
+          "url": "https://www.houraiken.com/access.html"
+        },
+        {
+          "label": "大須商店街指南",
+          "url": "https://www.gltjp.com/zh-hant/article/item/20465/"
+        },
+        {
+          "label": "Mandarake 名古屋",
+          "url": "https://www.mandarake.co.jp/dir/ngy/"
+        },
+        {
+          "label": "ARTE 門票",
+          "url": "https://feverup.com/m/753163/en"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "12 月 14 日",
+      "weekday": "星期一",
+      "title": "常滑妹・手信 → 返港",
+      "route": "常滑必去とこにゃん・彈性加點・機場",
+      "stops": [
+        {
+          "id": "d5-checkout",
+          "time": "09:30",
+          "title": "名古屋觀光酒店退房",
+          "description": "中午 12:00 前退房即可。帶行李乘名鐵機場線；先到常滑站寄行李再步行看常滑妹。",
+          "tag": "退房",
+          "placeId": "kanko",
+          "photoId": "kanko",
+          "tips": [
+            "電話 052-231-7711"
+          ],
+          "sources": [
+            {
+              "label": "酒店官方 FAQ",
+              "url": "https://global.nagoyakankohotel.co.jp/faq"
+            }
+          ]
+        },
+        {
+          "id": "d5-to-tokoname",
+          "time": "10:20",
+          "title": "名鐵名古屋 → 常滑站",
+          "description": "約 30 分鐘。μ-SKY 不停常滑，請乘會停常滑的列車。到站後寄行李，步行往招き猫通り。",
+          "tag": "名鐵",
+          "placeId": "tokonameStation",
+          "photoId": "tokonameStation",
+          "sources": [
+            {
+              "label": "常滑觀光・交通",
+              "url": "https://tokoname-kankou.net/en/access"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d5-tokonyan",
+          "time": "10:50",
+          "title": "常滑妹 とこにゃん（必去）",
+          "description": "今日常滑唯一必打卡：巨大見守り猫。站步行約 8–10 分鐘，在招き猫通り壁上。拍完即可回站；時間多再加下列可選點。",
+          "tag": "必去",
+          "placeId": "tokonyan",
+          "photoId": "tokonyan",
+          "tips": [
+            "拍照留意來車",
+            "電車／月台遠望也看得到常滑妹"
+          ],
+          "sources": [
+            {
+              "label": "とこにゃん 官方",
+              "url": "https://www.tokoname-kankou.net/spot/detail/4/"
+            },
+            {
+              "label": "常滑陶器散步道（繁中）",
+              "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+            }
+          ]
+        },
+        {
+          "id": "d5-extra-walk",
+          "time": "11:20",
+          "title": "可選加點：陶器散步（看時間）",
+          "description": "有餘裕才走：陶磁器會館（諮詢至 16:30）→ 土管坂 → 登窯廣場。時間緊就跳過，回站取行李往機場／永旺。",
+          "tag": "彈性",
+          "placeId": "ceramicHall",
+          "photoId": "ceramicHall",
+          "tips": [
+            "土管坂路面不平",
+            "整段加點約 40–60 分鐘"
+          ],
+          "optional": true,
+          "highlightsTitle": "時間夠再走",
+          "highlights": [
+            {
+              "name": "陶磁器會館",
+              "category": "可選",
+              "note": "散步道起點／伴手禮・招財貓",
+              "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+            },
+            {
+              "name": "土管坂",
+              "category": "可選",
+              "note": "土管擋土牆坡道打卡"
+            },
+            {
+              "name": "登窯廣場",
+              "category": "可選",
+              "note": "陶柱與壁畫；時間緊可省略"
+            }
+          ],
+          "sources": [
+            {
+              "label": "常滑陶器散步道（繁中）",
+              "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+            }
+          ]
+        },
+        {
+          "id": "d5-aeon",
+          "time": "12:15",
+          "title": "可選：永旺夢樂城常滑／午餐",
+          "description": "臨空常滑站旁；藥妝服飾與午餐。已逛夠常滑妹可改直接去機場買手信。",
+          "tag": "購物",
+          "placeId": "aeonTokoname",
+          "photoId": "aeonTokoname",
+          "tips": [
+            "再一站即機場",
+            "館內有置物櫃"
+          ],
+          "optional": true,
+          "sources": [
+            {
+              "label": "AEON MALL 常滑",
+              "url": "https://tokoname-aeonmall.com/"
+            },
+            {
+              "label": "機場周邊購物",
+              "url": "https://chubu.letsgojp.com/archives/363473/"
+            }
+          ]
+        },
+        {
+          "id": "d5-to-airport",
+          "time": "13:15",
+          "title": "常滑／臨空 → 中部國際機場",
+          "description": "常滑或臨空常滑皆一站到機場。取回行李後往航廈；約 13:30 到即可。",
+          "tag": "名鐵",
+          "placeId": "airport",
+          "photoId": "airport",
+          "sources": [
+            {
+              "label": "中部國際機場官方交通",
+              "url": "https://www.centrair.jp/en/access/train.html"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d5-souvenirs",
+          "time": "13:40",
+          "title": "機場手信・輕食",
+          "description": "第 1 航廈銘品館／伴手禮館補蝦仙貝、銅鑼燒等；第 2 航廈選擇較少，建議安檢前買齊。",
+          "tag": "手信",
+          "placeId": "airport",
+          "photoId": "centrairGift",
+          "highlightsTitle": "機場手信",
+          "highlights": [
+            {
+              "name": "銘品館・伴手禮館",
+              "category": "手信",
+              "note": "第 1 航廈安檢前",
+              "url": "https://www.centrair.jp/shop-dine/gift/index.html"
+            },
+            {
+              "name": "蝦仙貝之里",
+              "category": "手信",
+              "note": "提燈橫丁一帶，適合分送"
+            }
+          ],
+          "sources": [
+            {
+              "label": "セントレア手信特集",
+              "url": "https://www.centrair.jp/shop-dine/gift/index.html"
+            },
+            {
+              "label": "中部國際機場官方網站",
+              "url": "https://www.centrair.jp/en/"
+            }
+          ],
+          "tips": []
+        },
+        {
+          "id": "d5-uo681",
+          "time": "15:25",
+          "title": "香港快運 UO681 起飛",
+          "description": "由中部國際機場返回香港，原行程預計 19:15 抵達香港國際機場。",
+          "tag": "航班",
+          "placeId": "airport",
+          "photoId": "hongKong",
+          "sources": [
+            {
+              "label": "香港快運",
+              "url": "https://www.hkexpress.com/zh-hk/"
+            }
+          ],
+          "tips": []
+        }
+      ],
+      "note": "常滑只定「常滑妹」為必去；陶磁器會館／土管坂／登窯、永旺常滑皆視時間選加。大行李可寄常滑站或機場投幣櫃。15:25 起飛，建議約 13:30 到航廈。",
+      "noteSources": [
+        {
+          "label": "とこにゃん 官方",
+          "url": "https://www.tokoname-kankou.net/spot/detail/4/"
+        },
+        {
+          "label": "常滑陶器散步道（繁中）",
+          "url": "https://www.tokoname-kankou.net/tw/course/detail/11/"
+        },
+        {
+          "label": "セントレア手信特集",
+          "url": "https://www.centrair.jp/shop-dine/gift/index.html"
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": "hotel-keihan",
+      "placeId": "keihan",
+      "label": "京阪名古屋酒店",
+      "nightLabel": "12.10　名古屋・1 晚",
+      "address": "名古屋市中區錦 3-2-1",
+      "phone": "052-954-0321",
+      "checkIn": "入住 15:00（最遲 23:30）",
+      "checkOut": "退房 11:00",
+      "costLabel": "HK$3,128.36",
+      "costHkd": 3128.36,
+      "photoId": "keihan",
+      "sourceUrl": "https://www.hotelkeihan.co.jp/nagoya/facilities",
+      "sourceLabel": "官方酒店資訊"
+    },
+    {
+      "id": "hotel-green",
+      "placeId": "greenHotel",
+      "label": "高山綠色酒店",
+      "nightLabel": "12.11　高山・1 晚",
+      "address": "高山市西之一色町 2-180",
+      "phone": "0577-33-5500",
+      "checkIn": "入住 15:00 起",
+      "checkOut": "主樓退房 10:00 前",
+      "note": "房間或樓館規定可能不同，請查看訂房資料。",
+      "costLabel": "HK$958.31",
+      "costHkd": 958.31,
+      "photoId": "takayamaHotel",
+      "sourceUrl": "https://www.takayama-gh.com/en/faq",
+      "sourceLabel": "官方 FAQ"
+    },
+    {
+      "id": "hotel-kanko",
+      "placeId": "kanko",
+      "label": "名古屋觀光酒店",
+      "nightLabel": "12.12–13　名古屋・2 晚",
+      "address": "名古屋市中區錦 1-19-30",
+      "phone": "052-231-7711",
+      "checkIn": "入住 15:00 起",
+      "checkOut": "退房中午 12:00 前",
+      "costLabel": "HK$1,131.64",
+      "costHkd": 1131.64,
+      "photoId": "kanko",
+      "sourceUrl": "https://global.nagoyakankohotel.co.jp/faq",
+      "sourceLabel": "官方 FAQ"
+    }
+  ],
+  "flights": [
+    {
+      "id": "uo680",
+      "label": "12.10　香港 → 中部國際",
+      "flightNumber": "UO680",
+      "schedule": "10:00 → 14:30",
+      "direction": "outbound"
+    },
+    {
+      "id": "uo681",
+      "label": "12.14　中部國際 → 香港",
+      "flightNumber": "UO681",
+      "schedule": "15:25 → 約 19:15",
+      "direction": "return"
+    }
+  ],
+  "costs": {
+    "currency": "HKD",
+    "travelers": 3,
+    "travelersNote": "四晚・三位旅伴｜住宿 + 已確認交通 + 門票自動合計",
+    "exclusionNote": "合計只含酒店 costHkd、已確認交通 amountHkd、已確認門票 ticketItems。餐飲參考價及其他未定價項目不計入總額。",
+    "transportItems": [
+      {
+        "id": "bus-nagoya-shirakawa-20261211",
+        "dateLabel": "2026/12/11（金）",
+        "routeLabel": "名古屋 ⇒ 白川鄉･金澤",
+        "bookingRef": "13911",
+        "planLabel": "通常プラン",
+        "boarding": "名鐵巴士中心（名古屋） 09:50",
+        "alighting": "白川鄉ＢＴ（①乗り場：金澤站方向） 12:40",
+        "boardingPlaceId": "meitetsuBusCenter",
+        "alightingPlaceId": "busTerminal",
+        "passengersLabel": "合計 3 人",
+        "amountLabel": "¥14,100 ＝ 約 HK$700.1（每人約 HK$233.33）",
+        "amountHkd": 700.1,
+        "amountYen": 14100,
+        "note": "已確認訂位；對應行程 Day 2 上午名古屋 → 白川鄉ＢＴ。"
+      },
+      {
+        "id": "bus-shirakawa-takayama-20261211",
+        "dateLabel": "2026/12/11（金）",
+        "routeLabel": "富山・高岡 ⇒ 白川鄉 ⇒ 高山",
+        "bookingRef": "505",
+        "planLabel": "通常プラン（高岡⇒白川鄉⇒高山）",
+        "boarding": "白川鄉ＢＴ集合乘車處 15:45",
+        "alighting": "高山濃飛巴士中心（降車） 16:35",
+        "boardingPlaceId": "busTerminal",
+        "alightingPlaceId": "takayamaBus",
+        "passengersLabel": "合計 3 人",
+        "amountLabel": "¥8,700 ＝ 約 HK$433（每人約 HK$144.3）",
+        "amountHkd": 433,
+        "amountYen": 8700,
+        "note": "集合地點為白川鄉バスターミナル（荻町 1086），非村內巷道。"
+      }
+    ],
+    "ticketItems": [
+      {
+        "id": "ticket-arte-museum-nagoya",
+        "label": "ARTE MUSEUM NAGOYA 門票（3 人）",
+        "dateLabel": "2026/12/13（日）",
+        "placeId": "arte",
+        "passengersLabel": "合計 3 人",
+        "amountLabel": "¥11,400 ＝ HK$562.89（每人 HK$187.63）",
+        "amountHkd": 562.89,
+        "amountYen": 11400,
+        "note": "Day 4 下午沉浸藝術場館；三人合計已計入總額。",
+        "sourceUrl": "https://feverup.com/m/753163/en",
+        "sourceLabel": "Fever／ARTE 門票"
+      }
+    ],
+    "foodPrices": [
+      {
+        "id": "food-katsugyu",
+        "label": "牛炸牛排京都勝牛 名古屋伏見",
+        "priceLabel": "¥1,000–1,999",
+        "photoId": "katsugyu",
+        "sourceUrl": "https://tabelog.com/tw/aichi/A2301/A230102/23059720/",
+        "sourceLabel": "Tabelog"
+      },
+      {
+        "id": "food-wagyu-shogun",
+        "label": "高山・和牛将軍 飛驒牛燒肉（優先）",
+        "priceLabel": "約 ¥5,000–5,999 / 人",
+        "photoId": "hidaBeef",
+        "sourceUrl": "https://wagyu-shogun.com/menu",
+        "sourceLabel": "官方菜單／IG reel 優先"
+      },
+      {
+        "id": "food-ajikura",
+        "label": "高山・味藏天國 飛驒牛燒肉",
+        "priceLabel": "約 ¥4,000–6,500 / 人",
+        "photoId": "hidaBeef",
+        "sourceUrl": "http://www.ajikura.jp/menu",
+        "sourceLabel": "官方菜單／IG 特輯 #13"
+      },
+      {
+        "id": "food-wakachiya",
+        "label": "高山・わかちや 壽喜燒",
+        "priceLabel": "約 ¥5,000–5,999 / 人",
+        "photoId": "wakachiya",
+        "sourceUrl": "https://www.hidatakayama.or.jp/eat/detail_5946.html",
+        "sourceLabel": "官方餐飲指南"
+      },
+      {
+        "id": "food-kinno",
+        "label": "高山・金乃こって牛 握壽司",
+        "priceLabel": "三種盛り ¥1,200 起",
+        "photoId": "hidaBeef",
+        "sourceUrl": "https://kinno-kotteushi.jp/",
+        "sourceLabel": "官方菜單"
+      },
+      {
+        "id": "food-yamachan",
+        "label": "名古屋・世界の山ちゃん 本店",
+        "priceLabel": "約 ¥3,000–4,000 / 人",
+        "photoId": "yakitori",
+        "sourceUrl": "https://www.yamachan.co.jp/shop/aichi/honten.php",
+        "sourceLabel": "官方店舖"
+      },
+      {
+        "id": "food-ramen",
+        "label": "名古屋・麵家 獅子丸",
+        "priceLabel": "約 ¥1,000–1,999 / 人",
+        "photoId": "ramen",
+        "sourceUrl": "https://tabelog.com/tw/aichi/A2301/A230101/23060674/",
+        "sourceLabel": "Tabelog 價格參考"
+      },
+      {
+        "id": "food-yakitori",
+        "label": "名古屋・炭火焼鳥しげ 栄本店",
+        "priceLabel": "約 ¥5,000–5,999 / 人",
+        "photoId": "yakitori",
+        "sourceUrl": "https://s.tabelog.com/aichi/A2301/A230103/23000689/",
+        "sourceLabel": "Tabelog 價格參考"
+      },
+      {
+        "id": "food-coffee-don",
+        "label": "高山・Coffee Don",
+        "priceLabel": "¥1,000 以下 / 人",
+        "photoId": "takayamaTown",
+        "sourceUrl": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%89%E3%83%B3%20%E9%AB%98%E5%B1%B1",
+        "sourceLabel": "Tabelog 價格參考"
+      }
+    ],
+    "unpricedNote": "餐飲為參考價，未自動加進行程總額。機場交通與其餘城際車票（除已訂巴士）亦不計入總額。ARTE 門票已列入 ticketItems 合計。",
+    "unpricedUrl": "https://wagyu-shogun.com/menu",
+    "unpricedUrlLabel": "和牛将軍菜單"
+  },
+  "weatherLocations": [
+    {
+      "id": "weather-nagoya",
+      "title": "名古屋・愛知",
+      "lat": 35.1815,
+      "lng": 136.9066,
+      "jmaUrl": "https://www.jma.go.jp/bosai/forecast/#/contents/forecast/010000"
+    },
+    {
+      "id": "weather-takayama",
+      "title": "高山・岐阜",
+      "lat": 36.1406,
+      "lng": 137.2539,
+      "jmaUrl": "https://www.jma.go.jp/bosai/forecast/#/contents/forecast/220000"
+    }
+  ],
+  "weatherDisclaimer": "目前只顯示 Open-Meteo 未來三日預報，不代表行程當日天氣。出發前數日再查看日本氣象廳最新資料。",
+  "checklist": {
+    "title": "出發前 Checklist",
+    "note": "12 月 10–14 日・五日四夜；高山／白川鄉偏冷（約 0–8°C），名古屋日間約 5–12°C。以下數量為每人。",
+    "items": [
+      {
+        "id": "passport",
+        "label": "護照（確認有效期限）"
+      },
+      {
+        "id": "esim",
+        "label": "eSIM／上網卡／Pocket Wi-Fi"
+      },
+      {
+        "id": "adapter",
+        "label": "日本 A 型轉接頭／電壓 100V"
+      },
+      {
+        "id": "powerbank",
+        "label": "行動電源＆備用手機／相機"
+      },
+      {
+        "id": "insurance",
+        "label": "海外旅行保險"
+      },
+      {
+        "id": "vjweb",
+        "label": "Visit Japan Web 入境＆稅關 QR"
+      },
+      {
+        "id": "umbrella",
+        "label": "折疊傘＆塑膠垃圾袋"
+      },
+      {
+        "id": "cash",
+        "label": "日圓現金／獨立小錢包（Coin Case）"
+      },
+      {
+        "id": "iccard",
+        "label": "交通 IC 卡（Suica／ICOCA）"
+      },
+      {
+        "id": "toiletries",
+        "label": "個人牙刷／牙膏"
+      },
+      {
+        "id": "coat",
+        "label": "厚外套／羽絨（高山・白川鄉必備）",
+        "highlight": true
+      },
+      {
+        "id": "layers",
+        "label": "毛衣／Fleece＋圍巾／手套／冷帽",
+        "highlight": true
+      },
+      {
+        "id": "shoes",
+        "label": "防滑運動鞋（雪地／石板路）",
+        "highlight": true
+      },
+      {
+        "id": "socks",
+        "label": "襪子 6 雙（5 天＋1 備用）",
+        "highlight": true
+      },
+      {
+        "id": "underwear",
+        "label": "內褲 6 件（5 天＋1 備用）",
+        "highlight": true
+      },
+      {
+        "id": "shirts",
+        "label": "上衣／襯衫 5 件（每日 1 件）",
+        "highlight": true
+      },
+      {
+        "id": "pants",
+        "label": "長褲 3 條（十二月；短褲不建議戶外）",
+        "highlight": true
+      },
+      {
+        "id": "sleep",
+        "label": "睡衣／旅館用短褲 1 套（可選）"
+      }
+    ],
+    "clothingNote": "五日十二月衣物速算（每人）",
+    "clothing": [
+      {
+        "id": "socks",
+        "label": "襪子",
+        "qty": 6,
+        "unit": "雙",
+        "note": "5 天＋1 備用"
+      },
+      {
+        "id": "underwear",
+        "label": "內褲",
+        "qty": 6,
+        "unit": "件",
+        "note": "5 天＋1 備用"
+      },
+      {
+        "id": "shirts",
+        "label": "上衣／襯衫",
+        "qty": 5,
+        "unit": "件",
+        "note": "每日 1；可再加 1 件薄長袖"
+      },
+      {
+        "id": "pants",
+        "label": "長褲",
+        "qty": 3,
+        "unit": "條",
+        "note": "戶外用；短褲僅旅館可選 1"
+      }
+    ]
+  },
+  "offRoute": [
+    {
+      "id": "matsuki-sushi",
+      "kicker": "高山・有餘裕再訂",
+      "title": "松喜すし",
+      "note": "IG 特輯①：握壽司＋飛驒牛牛排；建議電話預約。時間緊可改和牛将軍／味藏。",
+      "url": "https://www.matsuki-sushi.com/dinner.html",
+      "urlLabel": "松喜すし晚餐菜單"
+    }
+  ],
+  "mapPlaceIds": [
+    "hongKongAirport",
+    "airport",
+    "tokonameStation",
+    "ceramicHall",
+    "tokonyan",
+    "dokan",
+    "noborigama",
+    "keihan",
+    "nagoyaStation",
+    "meitetsuBusCenter",
+    "busTerminal",
+    "village",
+    "lookout",
+    "greenHotel",
+    "takayamaBus",
+    "ropeway",
+    "coffeeDon",
+    "wagyuShogun",
+    "ajikura",
+    "kinnoKotte",
+    "katsugyu",
+    "shishimaru",
+    "uniqloGateTower",
+    "animateNagoya",
+    "melonbooksNagoya",
+    "atsuta",
+    "horaiken",
+    "arte",
+    "osu",
+    "osuShintenchi",
+    "osuAkamon",
+    "mandarakeNagoya",
+    "nagoyaParco",
+    "oasis21",
+    "miraiTower",
+    "hisayaPark",
+    "aeonTokoname",
+    "shige",
+    "kanko",
+    "glitchCoffee"
+  ]
+}
