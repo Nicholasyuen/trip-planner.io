@@ -189,7 +189,7 @@
     },
     {
       "id": "uniqloGateTower",
-      "src": "/images/uniqlo-gate-tower.jpg",
+      "src": "./images/uniqlo-gate-tower.jpg",
       "alt": "JR Gate Tower／名站夜景（UNIQLO 位於 11F）",
       "credit": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:JR_Gate_Tower_and_JR_Central_Towers_at_night.jpg",
@@ -197,7 +197,7 @@
     },
     {
       "id": "animateNagoya",
-      "src": "/images/animate-nagoya.jpg",
+      "src": "./images/animate-nagoya.jpg",
       "alt": "Animate 名古屋店外觀（椿太閤ビル）",
       "credit": "Animate 官方店舖頁",
       "sourceUrl": "https://www.animate.co.jp/shop/nagoya/",
@@ -205,7 +205,7 @@
     },
     {
       "id": "melonbooksNagoya",
-      "src": "/images/melonbooks-nagoya.jpg",
+      "src": "./images/melonbooks-nagoya.jpg",
       "alt": "Melon Books 名古屋店門面（第2太閤ビル 1F）",
       "credit": "店面影像・社群分享",
       "sourceUrl": "https://maps.app.goo.gl/DFNb7nEmMqLgB6cP7",
@@ -213,7 +213,7 @@
     },
     {
       "id": "osuAkamon",
-      "src": "/images/osu-akamon.jpg",
+      "src": "./images/osu-akamon.jpg",
       "alt": "大須赤門通街景（AKAMON ST.）",
       "credit": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goodwill_honten.JPG",
@@ -221,7 +221,7 @@
     },
     {
       "id": "osuShintenchi",
-      "src": "/images/cat.jpg",
+      "src": "./images/cat.jpg",
       "alt": "大須新天地通招財貓打卡點",
       "credit": "行程實地相片",
       "sourceUrl": "https://www.gltjp.com/zh-hant/article/item/20465/",
@@ -229,7 +229,7 @@
     },
     {
       "id": "tokonameCat",
-      "src": "/images/tokoname-cat.jpg",
+      "src": "./images/tokoname-cat.jpg",
       "alt": "守護貓常滑妹（とこにゃん）",
       "credit": "とこなめ観光ナビ（常滑觀光協會）",
       "sourceUrl": "https://www.tokoname-kankou.net/tw/course/detail/11/",
@@ -237,7 +237,7 @@
     },
     {
       "id": "mandarakeNagoya",
-      "src": "/images/mandarake-nagoya.jpg",
+      "src": "./images/mandarake-nagoya.jpg",
       "alt": "まんだらけ名古屋店外觀",
       "credit": "Mandarake 官方",
       "sourceUrl": "https://www.mandarake.co.jp/dir/ngy/",
@@ -245,7 +245,7 @@
     },
     {
       "id": "nagoyaParco",
-      "src": "/images/nagoya-parco.jpg",
+      "src": "./images/nagoya-parco.jpg",
       "alt": "名古屋 PARCO 外觀",
       "credit": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAGOYA-PARCOMINAMIKAN.JPG",
@@ -333,7 +333,7 @@
     },
     {
       "id": "hitsumabushi",
-      "src": "/images/representative-hitsumabushi.jpg",
+      "src": "./images/representative-hitsumabushi.jpg",
       "alt": "名古屋鰻魚飯代表菜式，非蓬萊軒店舖實景",
       "credit": "代表菜式影像・非店舖實景",
       "sourceUrl": "https://www.houraiken.com/access.html",
@@ -349,7 +349,7 @@
     },
     {
       "id": "glitchCoffee",
-      "src": "/images/glitch-coffee-nagoya.jpg",
+      "src": "./images/glitch-coffee-nagoya.jpg",
       "alt": "GLITCH COFFEE & ROASTERS Nagoya（9h 名駅前）店面",
       "credit": "オニマガ・店面影像",
       "sourceUrl": "https://shop.glitchcoffee.com/en/pages/store-nagoya",
@@ -373,7 +373,7 @@
     },
     {
       "id": "digitalArt",
-      "src": "/images/representative-digital-art.jpg",
+      "src": "./images/representative-digital-art.jpg",
       "alt": "沉浸式數碼藝術代表影像，非 ARTE 場館實景",
       "credit": "代表影像・非場館實景",
       "sourceUrl": "https://feverup.com/m/753163/en",
